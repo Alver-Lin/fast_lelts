@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 from typing import Any
 
@@ -8,20 +9,30 @@ ROOT = Path(__file__).resolve().parent.parent
 MD_DIR = ROOT / "words" / "word_notes_md"
 JSON_DIR = ROOT / "words" / "word_notes_json"
 
+_BOOK_NUM_RE = re.compile(r"^(\d+)")
+
 
 def ensure_dirs() -> None:
     MD_DIR.mkdir(parents=True, exist_ok=True)
     JSON_DIR.mkdir(parents=True, exist_ok=True)
 
 
+def _book_sort_key(name: str) -> tuple[int, int, str]:
+    """Sort numbered books by leading int (2 < 10); unnumbered last by name."""
+    match = _BOOK_NUM_RE.match(name)
+    if match:
+        return (0, int(match.group(1)), name.lower())
+    return (1, 0, name.lower())
+
+
 def list_books() -> list[str]:
     ensure_dirs()
-    return sorted(p.stem for p in JSON_DIR.glob("*.json"))
+    return sorted((p.stem for p in JSON_DIR.glob("*.json")), key=_book_sort_key)
 
 
 def list_md_books() -> list[str]:
     ensure_dirs()
-    return sorted(p.stem for p in MD_DIR.glob("*.md"))
+    return sorted((p.stem for p in MD_DIR.glob("*.md")), key=_book_sort_key)
 
 
 def has_json(book: str) -> bool:

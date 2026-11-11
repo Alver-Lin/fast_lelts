@@ -213,18 +213,18 @@ def render_card(
         times = follow.get("times", 1)
         mode_label = "english only" if mode == "en" else "english + chinese"
         print_line(f"follow: {mode_label}  x{times}")
-        print_line("q 退出跟读")
+        print_line("q quit follow")
     else:
-        print_line("← 上一个  → 下一个  Enter 展开/收起")
-        print_line("t 认识  f 不认识  n 笔记  v 朗读  r 跟读  q 返回  s 状态")
+        print_line("← prev  → next  Enter expand/collapse")
+        print_line("t know  f unknow  n note  v voice  r read  q quit  s status")
 
 
 def render_empty(book: str, status_filter: str) -> None:
     clear_screen()
     print_line(f"=== LEARN / {book} / {status_filter} ===")
-    print_line("当前筛选下没有单词。")
+    print_line("No words under current filter.")
     print_line()
-    print_line("s 状态  q 返回")
+    print_line("s status  q quit")
 
 
 def note_mode(entry: dict) -> bool:
@@ -296,8 +296,8 @@ def run_follow_read(
                 return index
             if result == "fail":
                 print_line()
-                print_line("无法发音（仅支持 macOS 的 say）。")
-                ask_line("按 Enter 退出跟读...")
+                print_line("Speech unavailable (macOS say only).")
+                ask_line("Press Enter to quit follow...")
                 return index
 
             if mode == "both":
@@ -409,8 +409,8 @@ def learn_book(book: str, all_entries: list) -> None:
             word = view[index].get("word") or ""
             if not speak_word(word):
                 print_line()
-                print_line("无法发音（仅支持 macOS 的 say）。")
-                ask_line("按 Enter 继续...")
+                print_line("Speech unavailable (macOS say only).")
+                ask_line("Press Enter to continue...")
             continue
         if ch == "r":
             config = configure_follow_read(book)
