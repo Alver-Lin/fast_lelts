@@ -24,6 +24,14 @@ def yellow(text: str) -> str:
     return f"\033[1;33m{text}\033[0m"
 
 
+def green(text: str) -> str:
+    return f"\033[32m{text}\033[0m"
+
+
+def red(text: str) -> str:
+    return f"\033[31m{text}\033[0m"
+
+
 def select_menu(
     title: str,
     options: list[tuple[str, str]],

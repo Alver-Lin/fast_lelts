@@ -5,7 +5,10 @@ import subprocess
 import sys
 
 from .books import (
-    list_books,
+    convert_books,
+    has_json,
+    list_md_books,
+    list_unconverted_books,
     load_book,
     save_book,
 )
@@ -13,10 +16,13 @@ from .note_editor import edit_note
 from .ui import (
     ask_line,
     clear_screen,
+    green,
     print_line,
     read_key,
     read_key_timeout,
+    red,
     select_menu,
+    yellow,
 )
 
 _PREFERRED_EN_VOICES = ("Samantha", "Daniel", "Alex")
@@ -424,33 +430,125 @@ def learn_book(book: str, all_entries: list) -> None:
             continue
 
 
-def learn_mode() -> None:
-    books = list_books()
+def _status_dot(converted: bool) -> str:
+    return green("●") if converted else red("●")
+
+
+def _select_md_book() -> str | None:
+    """Arrow menu of md books with convert status dots.
+
+    Returns book name, '__convert__', or None (quit).
+    """
+    books = list_md_books()
     if not books:
         clear_screen()
         print_line("=== LEARN ===")
         print_line()
-        print_line("暂无词书。请先在 words/word_notes_md 录入 md，再运行 words/md_to_json.py 转换。")
+        print_line("暂无词书。请先在 words/word_notes_md 录入 md。")
+        ask_line("按 Enter 返回...")
+        return None
+
+    actions = [("__convert__", "convert"), ("__quit__", "quit")]
+    options: list[tuple[str, str]] = [(name, name) for name in books] + actions
+    index = 0
+
+    while True:
+        clear_screen()
+        print_line("=== LEARN / select book ===")
+        print_line()
+        for i, (oid, label) in enumerate(options):
+            if oid == "__convert__":
+                print_line()
+            if oid.startswith("__"):
+                line = f"> {label}" if i == index else f"  {label}"
+                print_line(yellow(line) if i == index else line)
+                continue
+
+            dot = _status_dot(has_json(oid))
+            if i == index:
+                print_line(f"{yellow('>')} {dot} {yellow(label)}")
+            else:
+                print_line(f"  {dot} {label}")
+        print_line()
+
+        key = read_key()
+        if key["type"] == "ctrl_c" or key["type"] == "esc":
+            return None
+        if key["type"] == "up":
+            index = (index - 1) % len(options)
+            continue
+        if key["type"] == "down":
+            index = (index + 1) % len(options)
+            continue
+        if key["type"] == "enter":
+            oid = options[index][0]
+            if oid == "__quit__":
+                return None
+            return oid
+        if key["type"] == "char" and key["value"].lower() == "q":
+            return None
+
+
+def _convert_from_learn() -> None:
+    pending = list_unconverted_books()
+    if not pending:
+        clear_screen()
+        print_line("=== LEARN / convert ===")
+        print_line()
+        print_line("没有未转换的词书。")
         ask_line("按 Enter 返回...")
         return
 
-    options = [(name, name) for name in books] + [("__quit__", "quit")]
+    options = [(name, name) for name in pending]
+    if len(pending) > 1:
+        options.append(("__all__", "all"))
+    options.append(("__quit__", "quit"))
     choice = select_menu(
-        "=== LEARN / select book ===",
+        "=== LEARN / convert ===\n选择要转换的 md 词书",
         options,
-        sep_before={"__quit__"},
+        sep_before={"__all__", "__quit__"},
     )
     if choice is None or choice == "__quit__":
         return
 
-    book = choice
-    all_entries = load_book(book)
-    if not all_entries:
-        clear_screen()
-        print_line(f"=== LEARN / {book} ===")
-        print_line()
-        print_line("该词书为空。")
-        ask_line("按 Enter 返回...")
-        return
+    targets = pending if choice == "__all__" else [choice]
+    results = convert_books(targets)
+    clear_screen()
+    print_line("=== LEARN / convert ===")
+    print_line()
+    for book, count in results:
+        print_line(f"✓ {book}.md → {book}.json ({count} 词)")
+    print_line()
+    ask_line("按 Enter 返回...")
 
-    learn_book(book, all_entries)
+
+def learn_mode() -> None:
+    while True:
+        choice = _select_md_book()
+        if choice is None:
+            return
+        if choice == "__convert__":
+            _convert_from_learn()
+            continue
+
+        book = choice
+        if not has_json(book):
+            clear_screen()
+            print_line(f"=== LEARN / {book} ===")
+            print_line()
+            print_line("该词书尚未转换为 JSON。")
+            print_line("请选择 convert 进行转换。")
+            ask_line("按 Enter 返回...")
+            continue
+
+        all_entries = load_book(book)
+        if not all_entries:
+            clear_screen()
+            print_line(f"=== LEARN / {book} ===")
+            print_line()
+            print_line("该词书为空。")
+            ask_line("按 Enter 返回...")
+            continue
+
+        learn_book(book, all_entries)
+        return

@@ -24,6 +24,14 @@ def list_md_books() -> list[str]:
     return sorted(p.stem for p in MD_DIR.glob("*.md"))
 
 
+def has_json(book: str) -> bool:
+    return json_path(book).exists()
+
+
+def list_unconverted_books() -> list[str]:
+    return [name for name in list_md_books() if not has_json(name)]
+
+
 def json_path(book: str) -> Path:
     return JSON_DIR / f"{book}.json"
 

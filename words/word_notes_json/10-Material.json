@@ -1,0 +1,1334 @@
+[
+  {
+    "num": 1,
+    "word": "10.1-daily necessities",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】日用品",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 2,
+    "word": "detergent",
+    "phonetic": "/dɪˈtɜːdʒənt/",
+    "pos": "n",
+    "meaning": "洗涤剂；洗衣粉",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 3,
+    "word": "lotion",
+    "phonetic": "/ˈləʊʃn/",
+    "pos": "n",
+    "meaning": "护肤液；乳液",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 4,
+    "word": "shampoo",
+    "phonetic": "/ʃæmˈpuː/",
+    "pos": "n;v",
+    "meaning": "洗发水；洗头",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 5,
+    "word": "soap",
+    "phonetic": "/səʊp/",
+    "pos": "n",
+    "meaning": "肥皂",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 6,
+    "word": "tub",
+    "phonetic": "/tʌb/",
+    "pos": "n",
+    "meaning": "浴缸；盆",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 7,
+    "word": "pail",
+    "phonetic": "/peɪl/",
+    "pos": "n",
+    "meaning": "桶；提桶",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 8,
+    "word": "barrel",
+    "phonetic": "/ˈbærəl/",
+    "pos": "n",
+    "meaning": "桶；枪管；一桶",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 9,
+    "word": "bucket",
+    "phonetic": "/ˈbʌkɪt/",
+    "pos": "n",
+    "meaning": "水桶；桶",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 10,
+    "word": "razor",
+    "phonetic": "/ˈreɪzə(r)/",
+    "pos": "n",
+    "meaning": "剃须刀；剃刀",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 11,
+    "word": "shave",
+    "phonetic": "/ʃeɪv/",
+    "pos": "v;n",
+    "meaning": "刮脸；刮胡子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 12,
+    "word": "match",
+    "phonetic": "/mætʃ/",
+    "pos": "n;v",
+    "meaning": "火柴；比赛；匹配",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 13,
+    "word": "candle",
+    "phonetic": "/ˈkændl/",
+    "pos": "n",
+    "meaning": "蜡烛",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 14,
+    "word": "wax",
+    "phonetic": "/wæks/",
+    "pos": "n;v",
+    "meaning": "蜡；打蜡",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 15,
+    "word": "mop",
+    "phonetic": "/mɒp/",
+    "pos": "n;v",
+    "meaning": "拖把；拖地",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 16,
+    "word": "sweep",
+    "phonetic": "/swiːp/",
+    "pos": "v;n",
+    "meaning": "打扫；扫除",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 17,
+    "word": "broom",
+    "phonetic": "/bruːm/",
+    "pos": "n",
+    "meaning": "扫帚",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 18,
+    "word": "sponge",
+    "phonetic": "/spʌndʒ/",
+    "pos": "n",
+    "meaning": "海绵；海绵体",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 19,
+    "word": "towel",
+    "phonetic": "/ˈtaʊəl/",
+    "pos": "n",
+    "meaning": "毛巾；纸巾",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 20,
+    "word": "garbage",
+    "phonetic": "/ˈɡɑːbɪdʒ/",
+    "pos": "n",
+    "meaning": "垃圾（美）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 21,
+    "word": "rubbish",
+    "phonetic": "/ˈrʌbɪʃ/",
+    "pos": "n",
+    "meaning": "垃圾；废物（英）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 22,
+    "word": "trash",
+    "phonetic": "/træʃ/",
+    "pos": "n",
+    "meaning": "垃圾；废物",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 23,
+    "word": "litter",
+    "phonetic": "/ˈlɪtə(r)/",
+    "pos": "n;v",
+    "meaning": "垃圾；乱扔垃圾",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 24,
+    "word": "waste",
+    "phonetic": "/weɪst/",
+    "pos": "n;v;adj",
+    "meaning": "废物；浪费；废弃的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 25,
+    "word": "junk",
+    "phonetic": "/dʒʌŋk/",
+    "pos": "n",
+    "meaning": "废旧杂物；垃圾",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 26,
+    "word": "landfill",
+    "phonetic": "/ˈlændfɪl/",
+    "pos": "n",
+    "meaning": "垃圾填埋场",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 27,
+    "word": "sewerage",
+    "phonetic": "/ˈsuːərɪdʒ/",
+    "pos": "n",
+    "meaning": "排水系统；污水处理",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 28,
+    "word": "recycle",
+    "phonetic": "/ˌriːˈsaɪkl/",
+    "pos": "v",
+    "meaning": "回收利用；再循环",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 29,
+    "word": "reuse",
+    "phonetic": "/ˌriːˈjuːz/",
+    "pos": "v",
+    "meaning": "再利用；重新使用",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 30,
+    "word": "mattress",
+    "phonetic": "/ˈmætrəs/",
+    "pos": "n",
+    "meaning": "床垫",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 31,
+    "word": "quilt",
+    "phonetic": "/kwɪlt/",
+    "pos": "n",
+    "meaning": "被子；棉被",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 32,
+    "word": "sheet",
+    "phonetic": "/ʃiːt/",
+    "pos": "n",
+    "meaning": "床单；薄片；纸张",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 33,
+    "word": "blanket",
+    "phonetic": "/ˈblæŋkɪt/",
+    "pos": "n",
+    "meaning": "毯子；毛毯",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 34,
+    "word": "pillow",
+    "phonetic": "/ˈpɪləʊ/",
+    "pos": "n",
+    "meaning": "枕头",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 35,
+    "word": "carpet",
+    "phonetic": "/ˈkɑːpɪt/",
+    "pos": "n",
+    "meaning": "地毯",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 36,
+    "word": "rug",
+    "phonetic": "/rʌɡ/",
+    "pos": "n",
+    "meaning": "小地毯；垫子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 37,
+    "word": "cushion",
+    "phonetic": "/ˈkʊʃn/",
+    "pos": "n",
+    "meaning": "靠垫；垫子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 38,
+    "word": "jar",
+    "phonetic": "/dʒɑː(r)/",
+    "pos": "n",
+    "meaning": "罐子；广口瓶",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 39,
+    "word": "can",
+    "phonetic": "/kæn/",
+    "pos": "n;v",
+    "meaning": "罐头；金属罐；能",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 40,
+    "word": "knife",
+    "phonetic": "/naɪf/",
+    "pos": "n",
+    "meaning": "刀；餐刀",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 41,
+    "word": "fork",
+    "phonetic": "/fɔːk/",
+    "pos": "n",
+    "meaning": "叉子；分叉",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 42,
+    "word": "kit",
+    "phonetic": "/kɪt/",
+    "pos": "n",
+    "meaning": "成套工具；用具包",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 43,
+    "word": "utensil",
+    "phonetic": "/juːˈtensl/",
+    "pos": "n",
+    "meaning": "器皿；用具（尤指厨具）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 44,
+    "word": "10.2-stationery",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】文具",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 45,
+    "word": "staple",
+    "phonetic": "/ˈsteɪpl/",
+    "pos": "n;v",
+    "meaning": "订书钉；主要产品；装订",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 46,
+    "word": "portfolio",
+    "phonetic": "/pɔːtˈfəʊliəʊ/",
+    "pos": "n",
+    "meaning": "文件夹；作品集；投资组合",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 47,
+    "word": "paperback",
+    "phonetic": "/ˈpeɪpəbæk/",
+    "pos": "n",
+    "meaning": "平装书；平装本",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 48,
+    "word": "pamphlet",
+    "phonetic": "/ˈpæmflət/",
+    "pos": "n",
+    "meaning": "小册子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 49,
+    "word": "memorandum",
+    "phonetic": "/ˌmeməˈrændəm/",
+    "pos": "n",
+    "meaning": "备忘录；便笺",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 50,
+    "word": "memo",
+    "phonetic": "/ˈmeməʊ/",
+    "pos": "n",
+    "meaning": "备忘录（memorandum 缩写）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 51,
+    "word": "envelope",
+    "phonetic": "/ˈenvələʊp/",
+    "pos": "n",
+    "meaning": "信封",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 52,
+    "word": "stationery",
+    "phonetic": "/ˈsteɪʃənri/",
+    "pos": "n",
+    "meaning": "文具；信笺",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 53,
+    "word": "glue",
+    "phonetic": "/ɡluː/",
+    "pos": "n;v",
+    "meaning": "胶水；粘贴",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 54,
+    "word": "ink",
+    "phonetic": "/ɪŋk/",
+    "pos": "n",
+    "meaning": "墨水；油墨",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 55,
+    "word": "rubber",
+    "phonetic": "/ˈrʌbə(r)/",
+    "pos": "n",
+    "meaning": "橡皮；橡胶",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 56,
+    "word": "eraser",
+    "phonetic": "/ɪˈreɪzə(r)/",
+    "pos": "n",
+    "meaning": "橡皮擦",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 57,
+    "word": "scissors",
+    "phonetic": "/ˈsɪzəz/",
+    "pos": "n",
+    "meaning": "剪刀",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 58,
+    "word": "shear",
+    "phonetic": "/ʃɪə(r)/",
+    "pos": "v;n",
+    "meaning": "剪；剪切；大剪刀",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 59,
+    "word": "edge",
+    "phonetic": "/edʒ/",
+    "pos": "n",
+    "meaning": "边缘；刀刃；优势",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 60,
+    "word": "label",
+    "phonetic": "/ˈleɪbl/",
+    "pos": "n;v",
+    "meaning": "标签；贴标签；标注",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 61,
+    "word": "tag",
+    "phonetic": "/tæɡ/",
+    "pos": "n;v",
+    "meaning": "标签；给……贴标签",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 62,
+    "word": "umbrella",
+    "phonetic": "/ʌmˈbrelə/",
+    "pos": "n",
+    "meaning": "雨伞",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 63,
+    "word": "raincoat",
+    "phonetic": "/ˈreɪnkəʊt/",
+    "pos": "n",
+    "meaning": "雨衣",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 64,
+    "word": "rain boots",
+    "phonetic": "/reɪn buːts/",
+    "pos": "n",
+    "meaning": "雨靴",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 65,
+    "word": "outfit",
+    "phonetic": "/ˈaʊtfɪt/",
+    "pos": "n",
+    "meaning": "全套服装；装备",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 66,
+    "word": "10.3-hardware",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】五金 / 硬件",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 67,
+    "word": "tap",
+    "phonetic": "/tæp/",
+    "pos": "n;v",
+    "meaning": "水龙头；轻敲；开发",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 68,
+    "word": "plug",
+    "phonetic": "/plʌɡ/",
+    "pos": "n;v",
+    "meaning": "插头；塞子；插入",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 69,
+    "word": "pipe",
+    "phonetic": "/paɪp/",
+    "pos": "n",
+    "meaning": "管子；管道；烟斗",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 70,
+    "word": "tube",
+    "phonetic": "/tjuːb/",
+    "pos": "n",
+    "meaning": "管子；软管；地铁（英）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 71,
+    "word": "fuse",
+    "phonetic": "/fjuːz/",
+    "pos": "n;v",
+    "meaning": "保险丝；熔合；融合",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 72,
+    "word": "cable",
+    "phonetic": "/ˈkeɪbl/",
+    "pos": "n",
+    "meaning": "电缆；缆绳",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 73,
+    "word": "strand",
+    "phonetic": "/strænd/",
+    "pos": "n",
+    "meaning": "（绳/线的）股；搁浅",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 74,
+    "word": "cord",
+    "phonetic": "/kɔːd/",
+    "pos": "n",
+    "meaning": "绳索；电线",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 75,
+    "word": "bolt",
+    "phonetic": "/bəʊlt/",
+    "pos": "n;v",
+    "meaning": "螺栓；闩；突然逃跑",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 76,
+    "word": "knob",
+    "phonetic": "/nɒb/",
+    "pos": "n",
+    "meaning": "旋钮；球形把手",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 77,
+    "word": "handle",
+    "phonetic": "/ˈhændl/",
+    "pos": "n;v",
+    "meaning": "把手；处理；应付",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 78,
+    "word": "shutter",
+    "phonetic": "/ˈʃʌtə(r)/",
+    "pos": "n",
+    "meaning": "百叶窗；快门",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 79,
+    "word": "curtain",
+    "phonetic": "/ˈkɜːtn/",
+    "pos": "n",
+    "meaning": "窗帘；幕布",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 80,
+    "word": "pane",
+    "phonetic": "/peɪn/",
+    "pos": "n",
+    "meaning": "窗玻璃；窗格",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 81,
+    "word": "transparent",
+    "phonetic": "/trænsˈpærənt/",
+    "pos": "adj",
+    "meaning": "透明的；显而易见的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 82,
+    "word": "opaque",
+    "phonetic": "/əʊˈpeɪk/",
+    "pos": "adj",
+    "meaning": "不透明的；难懂的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 83,
+    "word": "translucent",
+    "phonetic": "/trænsˈluːsnt/",
+    "pos": "adj",
+    "meaning": "半透明的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 84,
+    "word": "fence",
+    "phonetic": "/fens/",
+    "pos": "n;v",
+    "meaning": "篱笆；围栏；用篱笆围住",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 85,
+    "word": "hurdle",
+    "phonetic": "/ˈhɜːdl/",
+    "pos": "n;v",
+    "meaning": "栏架；障碍；跨越",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 86,
+    "word": "pedal",
+    "phonetic": "/ˈpedl/",
+    "pos": "n;v",
+    "meaning": "踏板；踩踏板",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 87,
+    "word": "ladder",
+    "phonetic": "/ˈlædə(r)/",
+    "pos": "n",
+    "meaning": "梯子；阶梯",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 88,
+    "word": "shelf",
+    "phonetic": "/ʃelf/",
+    "pos": "n",
+    "meaning": "架子；搁板",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 89,
+    "word": "drawer",
+    "phonetic": "/drɔː(r)/",
+    "pos": "n",
+    "meaning": "抽屉",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 90,
+    "word": "stool",
+    "phonetic": "/stuːl/",
+    "pos": "n",
+    "meaning": "凳子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 91,
+    "word": "durable",
+    "phonetic": "/ˈdjʊərəbl/",
+    "pos": "adj",
+    "meaning": "耐用的；持久的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 92,
+    "word": "mill",
+    "phonetic": "/mɪl/",
+    "pos": "n;v",
+    "meaning": "磨坊；工厂；碾磨",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 93,
+    "word": "10.4-consumer electronics",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】消费电子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 94,
+    "word": "phone",
+    "phonetic": "/fəʊn/",
+    "pos": "n;v",
+    "meaning": "电话；打电话",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 95,
+    "word": "bell",
+    "phonetic": "/bel/",
+    "pos": "n",
+    "meaning": "铃；钟",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 96,
+    "word": "camera",
+    "phonetic": "/ˈkæmərə/",
+    "pos": "n",
+    "meaning": "照相机；摄影机",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 97,
+    "word": "spotlight",
+    "phonetic": "/ˈspɒtlaɪt/",
+    "pos": "n;v",
+    "meaning": "聚光灯；使受关注",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 98,
+    "word": "bulb",
+    "phonetic": "/bʌlb/",
+    "pos": "n",
+    "meaning": "灯泡；球茎",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 99,
+    "word": "flashlight",
+    "phonetic": "/ˈflæʃlaɪt/",
+    "pos": "n",
+    "meaning": "手电筒（美）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 100,
+    "word": "lantern",
+    "phonetic": "/ˈlæntən/",
+    "pos": "n",
+    "meaning": "灯笼；提灯",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 101,
+    "word": "refrigerator",
+    "phonetic": "/rɪˈfrɪdʒəreɪtə(r)/",
+    "pos": "n",
+    "meaning": "冰箱",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 102,
+    "word": "fridge",
+    "phonetic": "/frɪdʒ/",
+    "pos": "n",
+    "meaning": "冰箱（缩写）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 103,
+    "word": "fan",
+    "phonetic": "/fæn/",
+    "pos": "n",
+    "meaning": "风扇；粉丝",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 104,
+    "word": "battery",
+    "phonetic": "/ˈbætri/",
+    "pos": "n",
+    "meaning": "电池；炮台",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 105,
+    "word": "switch",
+    "phonetic": "/swɪtʃ/",
+    "pos": "n;v",
+    "meaning": "开关；转换；交换",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 106,
+    "word": "iron",
+    "phonetic": "/ˈaɪən/",
+    "pos": "n;v",
+    "meaning": "熨斗；熨烫；铁",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 107,
+    "word": "10.5-mine",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】矿产 / 材料",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 108,
+    "word": "pit",
+    "phonetic": "/pɪt/",
+    "pos": "n",
+    "meaning": "矿坑；深坑；果核",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 109,
+    "word": "metal",
+    "phonetic": "/ˈmetl/",
+    "pos": "n",
+    "meaning": "金属",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 110,
+    "word": "raw",
+    "phonetic": "/rɔː/",
+    "pos": "adj",
+    "meaning": "生的；未加工的；原始的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 111,
+    "word": "crude",
+    "phonetic": "/kruːd/",
+    "pos": "adj;n",
+    "meaning": "粗糙的；原油",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 112,
+    "word": "forge",
+    "phonetic": "/fɔːdʒ/",
+    "pos": "v;n",
+    "meaning": "锻造；伪造；铁匠铺",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 113,
+    "word": "iron",
+    "phonetic": "/ˈaɪən/",
+    "pos": "n",
+    "meaning": "铁；熨斗",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 114,
+    "word": "copper",
+    "phonetic": "/ˈkɒpə(r)/",
+    "pos": "n",
+    "meaning": "铜；铜币",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 115,
+    "word": "tin",
+    "phonetic": "/tɪn/",
+    "pos": "n",
+    "meaning": "锡；罐头盒",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 116,
+    "word": "lead",
+    "phonetic": "/led/; /liːd/",
+    "pos": "n;v",
+    "meaning": "铅；带领；领先",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 117,
+    "word": "zinc",
+    "phonetic": "/zɪŋk/",
+    "pos": "n",
+    "meaning": "锌",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 118,
+    "word": "alloy",
+    "phonetic": "/ˈælɔɪ/",
+    "pos": "n",
+    "meaning": "合金",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 119,
+    "word": "bronze",
+    "phonetic": "/brɒnz/",
+    "pos": "n",
+    "meaning": "青铜；青铜色",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 120,
+    "word": "brass",
+    "phonetic": "/brɑːs/",
+    "pos": "n",
+    "meaning": "黄铜",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 121,
+    "word": "mill",
+    "phonetic": "/mɪl/",
+    "pos": "n",
+    "meaning": "工厂；轧钢厂；磨坊",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 122,
+    "word": "diamond",
+    "phonetic": "/ˈdaɪəmənd/",
+    "pos": "n",
+    "meaning": "钻石；菱形",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 123,
+    "word": "crystal",
+    "phonetic": "/ˈkrɪstl/",
+    "pos": "n",
+    "meaning": "水晶；晶体",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 124,
+    "word": "fragile",
+    "phonetic": "/ˈfrædʒaɪl/",
+    "pos": "adj",
+    "meaning": "易碎的；脆弱的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 125,
+    "word": "fake",
+    "phonetic": "/feɪk/",
+    "pos": "adj;n;v",
+    "meaning": "假的；赝品；伪造",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 126,
+    "word": "counterfeit",
+    "phonetic": "/ˈkaʊntəfɪt/",
+    "pos": "adj;n;v",
+    "meaning": "伪造的；赝品；仿造",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 127,
+    "word": "inferior",
+    "phonetic": "/ɪnˈfɪəriə(r)/",
+    "pos": "adj",
+    "meaning": "较差的；下级的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 128,
+    "word": "charcoal",
+    "phonetic": "/ˈtʃɑːkəʊl/",
+    "pos": "n",
+    "meaning": "木炭",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 129,
+    "word": "fuel",
+    "phonetic": "/ˈfjuːəl/",
+    "pos": "n;v",
+    "meaning": "燃料；给……加油",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 130,
+    "word": "lime",
+    "phonetic": "/laɪm/",
+    "pos": "n",
+    "meaning": "石灰；酸橙",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 131,
+    "word": "plaster",
+    "phonetic": "/ˈplɑːstə(r)/",
+    "pos": "n;v",
+    "meaning": "石膏；灰泥；涂抹",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 132,
+    "word": "cement",
+    "phonetic": "/sɪˈment/",
+    "pos": "n;v",
+    "meaning": "水泥；巩固",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 133,
+    "word": "petroleum",
+    "phonetic": "/pəˈtrəʊliəm/",
+    "pos": "n",
+    "meaning": "石油",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 134,
+    "word": "pitch",
+    "phonetic": "/pɪtʃ/",
+    "pos": "n;v",
+    "meaning": "沥青；音高；投掷",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 135,
+    "word": "lubricating oil",
+    "phonetic": "/ˈluːbrɪkeɪtɪŋ ɔɪl/",
+    "pos": "n",
+    "meaning": "润滑油",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 136,
+    "word": "plastic",
+    "phonetic": "/ˈplæstɪk/",
+    "pos": "n;adj",
+    "meaning": "塑料；塑料的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 137,
+    "word": "artificial",
+    "phonetic": "/ˌɑːtɪˈfɪʃl/",
+    "pos": "adj",
+    "meaning": "人造的；假的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 138,
+    "word": "man-made",
+    "phonetic": "/ˌmæn ˈmeɪd/",
+    "pos": "adj",
+    "meaning": "人造的；人工的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 139,
+    "word": "synthetic",
+    "phonetic": "/sɪnˈθetɪk/",
+    "pos": "adj;n",
+    "meaning": "合成的；合成物",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 140,
+    "word": "10.6-lumber",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】纺织 / 纤维",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 141,
+    "word": "fibre",
+    "phonetic": "/ˈfaɪbə(r)/",
+    "pos": "n",
+    "meaning": "纤维（美作 fiber）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 142,
+    "word": "knit",
+    "phonetic": "/nɪt/",
+    "pos": "v",
+    "meaning": "编织；针织",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 143,
+    "word": "weave",
+    "phonetic": "/wiːv/",
+    "pos": "v",
+    "meaning": "织；编织",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 144,
+    "word": "fabric",
+    "phonetic": "/ˈfæbrɪk/",
+    "pos": "n",
+    "meaning": "织物；布料；结构",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 145,
+    "word": "canvas",
+    "phonetic": "/ˈkænvəs/",
+    "pos": "n",
+    "meaning": "帆布；画布",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 146,
+    "word": "linen",
+    "phonetic": "/ˈlɪnɪn/",
+    "pos": "n",
+    "meaning": "亚麻布；亚麻制品",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 147,
+    "word": "cotton",
+    "phonetic": "/ˈkɒtn/",
+    "pos": "n",
+    "meaning": "棉花；棉布",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 148,
+    "word": "nylon",
+    "phonetic": "/ˈnaɪlɒn/",
+    "pos": "n",
+    "meaning": "尼龙",
+    "note": null,
+    "status": "unknow"
+  }
+]
