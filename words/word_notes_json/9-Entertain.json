@@ -1,0 +1,1028 @@
+[
+  {
+    "num": 1,
+    "word": "9.1-stage",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】舞台 / 音乐",
+    "note": null,
+    "status": "know"
+  },
+  {
+    "num": 2,
+    "word": "piano",
+    "phonetic": "/piˈænəʊ/",
+    "pos": "n",
+    "meaning": "钢琴",
+    "note": "sheirch",
+    "status": "unknow"
+  },
+  {
+    "num": 3,
+    "word": "violin",
+    "phonetic": "/ˌvaɪəˈlɪn/",
+    "pos": "n",
+    "meaning": "小提琴",
+    "note": null,
+    "status": "know"
+  },
+  {
+    "num": 4,
+    "word": "cello",
+    "phonetic": "/ˈtʃeləʊ/",
+    "pos": "n",
+    "meaning": "大提琴",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 5,
+    "word": "harmonica",
+    "phonetic": "/hɑːˈmɒnɪkə/",
+    "pos": "n",
+    "meaning": "口琴",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 6,
+    "word": "trumpet",
+    "phonetic": "/ˈtrʌmpɪt/",
+    "pos": "n",
+    "meaning": "小号；喇叭",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 7,
+    "word": "drum",
+    "phonetic": "/drʌm/",
+    "pos": "n;v",
+    "meaning": "鼓；敲鼓",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 8,
+    "word": "flute",
+    "phonetic": "/fluːt/",
+    "pos": "n",
+    "meaning": "长笛",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 9,
+    "word": "orchestra",
+    "phonetic": "/ˈɔːkɪstrə/",
+    "pos": "n",
+    "meaning": "管弦乐队",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 10,
+    "word": "concert",
+    "phonetic": "/ˈkɒnsət/",
+    "pos": "n",
+    "meaning": "音乐会；演唱会",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 11,
+    "word": "melody",
+    "phonetic": "/ˈmelədi/",
+    "pos": "n",
+    "meaning": "旋律；曲调",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 12,
+    "word": "tone",
+    "phonetic": "/təʊn/",
+    "pos": "n",
+    "meaning": "音调；语气；色调",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 13,
+    "word": "tune",
+    "phonetic": "/tjuːn/",
+    "pos": "n;v",
+    "meaning": "曲调；调音；调整",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 14,
+    "word": "solo",
+    "phonetic": "/ˈsəʊləʊ/",
+    "pos": "n;adj",
+    "meaning": "独奏；独唱；单独的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 15,
+    "word": "Classical music",
+    "phonetic": "/ˈklæsɪkl ˈmjuːzɪk/",
+    "pos": "n",
+    "meaning": "古典音乐",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 16,
+    "word": "jazz",
+    "phonetic": "/dʒæz/",
+    "pos": "n",
+    "meaning": "爵士乐",
+    "note": "q",
+    "status": "unknow"
+  },
+  {
+    "num": 17,
+    "word": "rock",
+    "phonetic": "/rɒk/",
+    "pos": "n",
+    "meaning": "摇滚乐；岩石",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 18,
+    "word": "Hip-hop",
+    "phonetic": "/ˈhɪp hɒp/",
+    "pos": "n",
+    "meaning": "嘻哈音乐",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 19,
+    "word": "pop",
+    "phonetic": "/pɒp/",
+    "pos": "n;adj",
+    "meaning": "流行音乐；流行的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 20,
+    "word": "lyric",
+    "phonetic": "/ˈlɪrɪk/",
+    "pos": "n;adj",
+    "meaning": "歌词；抒情的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 21,
+    "word": "rhythm",
+    "phonetic": "/ˈrɪðəm/",
+    "pos": "n",
+    "meaning": "节奏；韵律",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 22,
+    "word": "9.2-circus",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】马戏团 / 表演 / 媒体",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 23,
+    "word": "circus",
+    "phonetic": "/ˈsɜːkəs/",
+    "pos": "n",
+    "meaning": "马戏团",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 24,
+    "word": "clown",
+    "phonetic": "/klaʊn/",
+    "pos": "n",
+    "meaning": "小丑",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 25,
+    "word": "joker",
+    "phonetic": "/ˈdʒəʊkə(r)/",
+    "pos": "n",
+    "meaning": "爱开玩笑的人；王牌",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 26,
+    "word": "amuse",
+    "phonetic": "/əˈmjuːz/",
+    "pos": "v",
+    "meaning": "逗乐；使娱乐",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 27,
+    "word": "perform",
+    "phonetic": "/pəˈfɔːm/",
+    "pos": "v",
+    "meaning": "表演；执行；表现",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 28,
+    "word": "imitate",
+    "phonetic": "/ˈɪmɪteɪt/",
+    "pos": "v",
+    "meaning": "模仿",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 29,
+    "word": "mimic",
+    "phonetic": "/ˈmɪmɪk/",
+    "pos": "v;n;adj",
+    "meaning": "模仿；模仿者；模仿的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 30,
+    "word": "simulate",
+    "phonetic": "/ˈsɪmjuleɪt/",
+    "pos": "v",
+    "meaning": "模拟；假装",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 31,
+    "word": "magic",
+    "phonetic": "/ˈmædʒɪk/",
+    "pos": "n;adj",
+    "meaning": "魔术；魔法；神奇的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 32,
+    "word": "cirtic",
+    "phonetic": "/ˈkrɪtɪk/",
+    "pos": "n",
+    "meaning": "（误写，应为 critic）批评家；评论家",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 33,
+    "word": "commentator",
+    "phonetic": "/ˈkɒmənteɪtə(r)/",
+    "pos": "n",
+    "meaning": "评论员；实况解说员",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 34,
+    "word": "exponent",
+    "phonetic": "/ɪkˈspəʊnənt/",
+    "pos": "n",
+    "meaning": "倡导者；代表人物；指数",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 35,
+    "word": "journalist",
+    "phonetic": "/ˈdʒɜːnəlɪst/",
+    "pos": "n",
+    "meaning": "记者；新闻工作者",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 36,
+    "word": "editor",
+    "phonetic": "/ˈedɪtə(r)/",
+    "pos": "n",
+    "meaning": "编辑",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 37,
+    "word": "typist",
+    "phonetic": "/ˈtaɪpɪst/",
+    "pos": "n",
+    "meaning": "打字员",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 38,
+    "word": "medium",
+    "phonetic": "/ˈmiːdiəm/",
+    "pos": "n;adj",
+    "meaning": "媒介；媒体；中等的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 39,
+    "word": "press",
+    "phonetic": "/pres/",
+    "pos": "n;v",
+    "meaning": "新闻界；报刊；按压",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 40,
+    "word": "announcer",
+    "phonetic": "/əˈnaʊnsə(r)/",
+    "pos": "n",
+    "meaning": "播音员；宣告者",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 41,
+    "word": "propaganda",
+    "phonetic": "/ˌprɒpəˈɡændə/",
+    "pos": "n",
+    "meaning": "宣传；鼓吹",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 42,
+    "word": "correspondent",
+    "phonetic": "/ˌkɒrəˈspɒndənt/",
+    "pos": "n",
+    "meaning": "通讯记者；通信者",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 43,
+    "word": "handout",
+    "phonetic": "/ˈhændaʊt/",
+    "pos": "n",
+    "meaning": "传单；讲义；救济品",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 44,
+    "word": "leaflet",
+    "phonetic": "/ˈliːflət/",
+    "pos": "n",
+    "meaning": "传单；小册子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 45,
+    "word": "messenger",
+    "phonetic": "/ˈmesɪndʒə(r)/",
+    "pos": "n",
+    "meaning": "信使；送信人",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 46,
+    "word": "publish",
+    "phonetic": "/ˈpʌblɪʃ/",
+    "pos": "v",
+    "meaning": "出版；发表；公布",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 47,
+    "word": "disseminate",
+    "phonetic": "/dɪˈsemɪneɪt/",
+    "pos": "v",
+    "meaning": "传播；散布",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 48,
+    "word": "gossip",
+    "phonetic": "/ˈɡɒsɪp/",
+    "pos": "n;v",
+    "meaning": "流言蜚语；闲聊",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 49,
+    "word": "rumour",
+    "phonetic": "/ˈruːmə(r)/",
+    "pos": "n;v",
+    "meaning": "谣言；传闻",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 50,
+    "word": "foresee",
+    "phonetic": "/fɔːˈsiː/",
+    "pos": "v",
+    "meaning": "预见；预知",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 51,
+    "word": "anticipate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "pos": "v",
+    "meaning": "预期；期待；先于……行动",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 52,
+    "word": "expect",
+    "phonetic": "/ɪkˈspekt/",
+    "pos": "v",
+    "meaning": "期望；预料",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 53,
+    "word": "9.3-gallery",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】画廊 / 艺术",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 54,
+    "word": "exhibition",
+    "phonetic": "/ˌeksɪˈbɪʃn/",
+    "pos": "n",
+    "meaning": "展览；展示",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 55,
+    "word": "protrait",
+    "phonetic": "/ˈpɔːtreɪt/",
+    "pos": "n",
+    "meaning": "（误写，应为 portrait）肖像；画像",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 56,
+    "word": "sculpture",
+    "phonetic": "/ˈskʌlptʃə(r)/",
+    "pos": "n",
+    "meaning": "雕塑；雕像",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 57,
+    "word": "canve",
+    "phonetic": "/kɑːv/",
+    "pos": "v",
+    "meaning": "（误写，应为 carve）雕刻；切开",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 58,
+    "word": "craftsman",
+    "phonetic": "/ˈkrɑːftsmən/",
+    "pos": "n",
+    "meaning": "工匠；手艺人",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 59,
+    "word": "artist",
+    "phonetic": "/ˈɑːtɪst/",
+    "pos": "n",
+    "meaning": "艺术家；画家",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 60,
+    "word": "painter",
+    "phonetic": "/ˈpeɪntə(r)/",
+    "pos": "n",
+    "meaning": "画家；油漆工",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 61,
+    "word": "imporvise",
+    "phonetic": "/ˈɪmprəvaɪz/",
+    "pos": "v",
+    "meaning": "（误写，应为 improvise）即兴创作；临时凑合",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 62,
+    "word": "draw",
+    "phonetic": "/drɔː/",
+    "pos": "v",
+    "meaning": "画；拉；吸引",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 63,
+    "word": "sketch",
+    "phonetic": "/sketʃ/",
+    "pos": "n;v",
+    "meaning": "草图；素描；简述",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 64,
+    "word": "depict",
+    "phonetic": "/dɪˈpɪkt/",
+    "pos": "v",
+    "meaning": "描绘；描述",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 65,
+    "word": "describe",
+    "phonetic": "/dɪˈskraɪb/",
+    "pos": "v",
+    "meaning": "描述；描写",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 66,
+    "word": "select",
+    "phonetic": "/sɪˈlekt/",
+    "pos": "v;adj",
+    "meaning": "选择；精选的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 67,
+    "word": "opt",
+    "phonetic": "/ɒpt/",
+    "pos": "v",
+    "meaning": "选择；决定",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 68,
+    "word": "9.4-gym",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】体育 / 运动",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 69,
+    "word": "Olympic",
+    "phonetic": "/əˈlɪmpɪk/",
+    "pos": "adj",
+    "meaning": "奥林匹克的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 70,
+    "word": "stadium",
+    "phonetic": "/ˈsteɪdiəm/",
+    "pos": "n",
+    "meaning": "体育场；运动场",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 71,
+    "word": "racket",
+    "phonetic": "/ˈrækɪt/",
+    "pos": "n",
+    "meaning": "（球）拍；喧闹；非法买卖",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 72,
+    "word": "bat",
+    "phonetic": "/bæt/",
+    "pos": "n;v",
+    "meaning": "球拍；球棒；击球；蝙蝠",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 73,
+    "word": "bedminton",
+    "phonetic": "/ˈbædmɪntən/",
+    "pos": "n",
+    "meaning": "（误写，应为 badminton）羽毛球",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 74,
+    "word": "golf",
+    "phonetic": "/ɡɒlf/",
+    "pos": "n",
+    "meaning": "高尔夫球",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 75,
+    "word": "billiands",
+    "phonetic": "/ˈbɪliədz/",
+    "pos": "n",
+    "meaning": "（误写，应为 billiards）台球；桌球",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 76,
+    "word": "kick",
+    "phonetic": "/kɪk/",
+    "pos": "v;n",
+    "meaning": "踢；踢腿",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 77,
+    "word": "knock",
+    "phonetic": "/nɒk/",
+    "pos": "v;n",
+    "meaning": "敲；撞击",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 78,
+    "word": "soccer",
+    "phonetic": "/ˈsɒkə(r)/",
+    "pos": "n",
+    "meaning": "足球（美式用语）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 79,
+    "word": "tennis",
+    "phonetic": "/ˈtenɪs/",
+    "pos": "n",
+    "meaning": "网球",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 80,
+    "word": "goal",
+    "phonetic": "/ɡəʊl/",
+    "pos": "n",
+    "meaning": "球门；进球；目标",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 81,
+    "word": "baskeball",
+    "phonetic": "/ˈbɑːskɪtbɔːl/",
+    "pos": "n",
+    "meaning": "（误写，应为 basketball）篮球",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 82,
+    "word": "flip",
+    "phonetic": "/flɪp/",
+    "pos": "v;n",
+    "meaning": "翻转；轻弹；空翻",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 83,
+    "word": "pitch",
+    "phonetic": "/pɪtʃ/",
+    "pos": "n;v",
+    "meaning": "球场；投掷；音调；沥青",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 84,
+    "word": "throw",
+    "phonetic": "/θrəʊ/",
+    "pos": "v;n",
+    "meaning": "扔；投掷",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 85,
+    "word": "toss",
+    "phonetic": "/tɒs/",
+    "pos": "v;n",
+    "meaning": "抛；扔；投币决定",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 86,
+    "word": "ski",
+    "phonetic": "/skiː/",
+    "pos": "n;v",
+    "meaning": "滑雪板；滑雪",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 87,
+    "word": "skate",
+    "phonetic": "/skeɪt/",
+    "pos": "n;v",
+    "meaning": "溜冰鞋；滑冰",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 88,
+    "word": "slide",
+    "phonetic": "/slaɪd/",
+    "pos": "v;n",
+    "meaning": "滑行；幻灯片；滑梯",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 89,
+    "word": "slip",
+    "phonetic": "/slɪp/",
+    "pos": "v;n",
+    "meaning": "滑倒；纸条；失误",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 90,
+    "word": "glide",
+    "phonetic": "/ɡlaɪd/",
+    "pos": "v;n",
+    "meaning": "滑翔；滑动",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 91,
+    "word": "tumble",
+    "phonetic": "/ˈtʌmbl/",
+    "pos": "v;n",
+    "meaning": "跌倒；翻滚；暴跌",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 92,
+    "word": "dive",
+    "phonetic": "/daɪv/",
+    "pos": "v;n",
+    "meaning": "跳水；潜水；俯冲",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 93,
+    "word": "jump",
+    "phonetic": "/dʒʌmp/",
+    "pos": "v;n",
+    "meaning": "跳；跳跃",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 94,
+    "word": "hop",
+    "phonetic": "/hɒp/",
+    "pos": "v;n",
+    "meaning": "单脚跳；短途旅行",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 95,
+    "word": "leap",
+    "phonetic": "/liːp/",
+    "pos": "v;n",
+    "meaning": "跳跃；飞跃",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 96,
+    "word": "spring",
+    "phonetic": "/sprɪŋ/",
+    "pos": "v;n",
+    "meaning": "跳起；春天；弹簧",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 97,
+    "word": "bounce",
+    "phonetic": "/baʊns/",
+    "pos": "v;n",
+    "meaning": "弹起；反弹",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 98,
+    "word": "plunge",
+    "phonetic": "/plʌndʒ/",
+    "pos": "v;n",
+    "meaning": "跳入；猛跌；投入",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 99,
+    "word": "9.5-hike",
+    "phonetic": "—",
+    "pos": "—",
+    "meaning": "【章节】徒步 / 户外",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 100,
+    "word": "vocation",
+    "phonetic": "/vəˈkeɪʃn/; /vəˈkeɪʃn/",
+    "pos": "n",
+    "meaning": "（此处疑为 vacation /vəˈkeɪʃn/ 假期）职业；天职",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 101,
+    "word": "excursion",
+    "phonetic": "/ɪkˈskɜːʃn/",
+    "pos": "n",
+    "meaning": "短途旅行；远足",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 102,
+    "word": "lag",
+    "phonetic": "/læɡ/",
+    "pos": "v;n",
+    "meaning": "落后；滞后",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 103,
+    "word": "jog",
+    "phonetic": "/dʒɒɡ/",
+    "pos": "v;n",
+    "meaning": "慢跑",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 104,
+    "word": "climb",
+    "phonetic": "/klaɪm/",
+    "pos": "v;n",
+    "meaning": "攀爬；上升",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 105,
+    "word": "wander",
+    "phonetic": "/ˈwɒndə(r)/",
+    "pos": "v",
+    "meaning": "漫步；徘徊；走神",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 106,
+    "word": "pace",
+    "phonetic": "/peɪs/",
+    "pos": "n;v",
+    "meaning": "步伐；速度；踱步",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 107,
+    "word": "step",
+    "phonetic": "/step/",
+    "pos": "n;v",
+    "meaning": "脚步；台阶；迈步",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 108,
+    "word": "pull",
+    "phonetic": "/pʊl/",
+    "pos": "v;n",
+    "meaning": "拉；拖；拉力",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 109,
+    "word": "drag",
+    "phonetic": "/dræɡ/",
+    "pos": "v;n",
+    "meaning": "拖；拉；拖累",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 110,
+    "word": "linger",
+    "phonetic": "/ˈlɪŋɡə(r)/",
+    "pos": "v",
+    "meaning": "逗留；徘徊；拖延",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 111,
+    "word": "pedestrain",
+    "phonetic": "/pəˈdestriən/",
+    "pos": "n;adj",
+    "meaning": "（误写，应为 pedestrian）行人；步行的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 112,
+    "word": "camp",
+    "phonetic": "/kæmp/",
+    "pos": "n;v",
+    "meaning": "营地；露营",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 113,
+    "word": "tent",
+    "phonetic": "/tent/",
+    "pos": "n",
+    "meaning": "帐篷",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 114,
+    "word": "picnic",
+    "phonetic": "/ˈpɪknɪk/",
+    "pos": "n;v",
+    "meaning": "野餐",
+    "note": null,
+    "status": "unknow"
+  }
+]

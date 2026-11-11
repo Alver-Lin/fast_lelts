@@ -1,0 +1,884 @@
+[
+  {
+    "num": 1,
+    "word": "falcon",
+    "phonetic": "/ˈfɔːlkən/",
+    "pos": "n",
+    "meaning": "猎鹰；隼",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 2,
+    "word": "hawk",
+    "phonetic": "/hɔːk/",
+    "pos": "n",
+    "meaning": "鹰；隼",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 3,
+    "word": "eagle",
+    "phonetic": "/ˈiːɡl/",
+    "pos": "n",
+    "meaning": "鹰；雕",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 4,
+    "word": "owl",
+    "phonetic": "/aʊl/",
+    "pos": "n",
+    "meaning": "猫头鹰",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 5,
+    "word": "swallow",
+    "phonetic": "/ˈswɒləʊ/",
+    "pos": "n;v",
+    "meaning": "燕子；吞咽",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 6,
+    "word": "sparrow",
+    "phonetic": "/ˈspærəʊ/",
+    "pos": "n",
+    "meaning": "麻雀",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 7,
+    "word": "pigeon",
+    "phonetic": "/ˈpɪdʒɪn/",
+    "pos": "n",
+    "meaning": "鸽子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 8,
+    "word": "crow",
+    "phonetic": "/krəʊ/",
+    "pos": "n;v",
+    "meaning": "乌鸦；啼叫",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 9,
+    "word": "penguin",
+    "phonetic": "/ˈpeŋɡwɪn/",
+    "pos": "n",
+    "meaning": "企鹅",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 10,
+    "word": "seal",
+    "phonetic": "/siːl/",
+    "pos": "n;v",
+    "meaning": "海豹；印章；密封",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 11,
+    "word": "camel",
+    "phonetic": "/ˈkæml/",
+    "pos": "n",
+    "meaning": "骆驼",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 12,
+    "word": "lamb",
+    "phonetic": "/læm/",
+    "pos": "n",
+    "meaning": "羔羊；小羊肉",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 13,
+    "word": "cattle",
+    "phonetic": "/ˈkætl/",
+    "pos": "n",
+    "meaning": "牛（总称）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 14,
+    "word": "donkey",
+    "phonetic": "/ˈdɒŋki/",
+    "pos": "n",
+    "meaning": "驴",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 15,
+    "word": "squirrel",
+    "phonetic": "/ˈskwɪrəl/",
+    "pos": "n",
+    "meaning": "松鼠",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 16,
+    "word": "whale",
+    "phonetic": "/weɪl/",
+    "pos": "n",
+    "meaning": "鲸",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 17,
+    "word": "goose",
+    "phonetic": "/ɡuːs/",
+    "pos": "n",
+    "meaning": "鹅",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 18,
+    "word": "throng",
+    "phonetic": "/θrɒŋ/",
+    "pos": "n;v",
+    "meaning": "人群；聚集",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 19,
+    "word": "crowd",
+    "phonetic": "/kraʊd/",
+    "pos": "n;v",
+    "meaning": "人群；挤满",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 20,
+    "word": "mammal",
+    "phonetic": "/ˈmæml/",
+    "pos": "n",
+    "meaning": "哺乳动物",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 21,
+    "word": "primate",
+    "phonetic": "/ˈpraɪmeɪt/",
+    "pos": "n",
+    "meaning": "灵长类动物",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 22,
+    "word": "vertebrate",
+    "phonetic": "/ˈvɜːtɪbrət/",
+    "pos": "n;adj",
+    "meaning": "脊椎动物；有脊椎的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 23,
+    "word": "courtship",
+    "phonetic": "/ˈkɔːtʃɪp/",
+    "pos": "n",
+    "meaning": "求偶；求爱",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 24,
+    "word": "mate",
+    "phonetic": "/meɪt/",
+    "pos": "n;v",
+    "meaning": "配偶；配对；交配",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 25,
+    "word": "feed",
+    "phonetic": "/fiːd/",
+    "pos": "v;n",
+    "meaning": "喂养；饲料；进餐",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 26,
+    "word": "ancestor",
+    "phonetic": "/ˈænsestə(r)/",
+    "pos": "n",
+    "meaning": "祖先；祖宗",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 27,
+    "word": "originate",
+    "phonetic": "/əˈrɪdʒɪneɪt/",
+    "pos": "v",
+    "meaning": "起源；发源；创始",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 28,
+    "word": "derive",
+    "phonetic": "/dɪˈraɪv/",
+    "pos": "v",
+    "meaning": "源自；获得；推导",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 29,
+    "word": "stem",
+    "phonetic": "/stem/",
+    "pos": "n;v",
+    "meaning": "茎；词干；源于；阻止",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 30,
+    "word": "descendant",
+    "phonetic": "/dɪˈsendənt/",
+    "pos": "n",
+    "meaning": "后代；后裔",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 31,
+    "word": "offspring",
+    "phonetic": "/ˈɒfsprɪŋ/",
+    "pos": "n",
+    "meaning": "后代；子女；幼崽",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 32,
+    "word": "subgroup",
+    "phonetic": "/ˈsʌbɡruːp/",
+    "pos": "n",
+    "meaning": "亚群；小组",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 33,
+    "word": "Intelligence",
+    "phonetic": "/ɪnˈtelɪdʒəns/",
+    "pos": "n",
+    "meaning": "智力；情报",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 34,
+    "word": "optical",
+    "phonetic": "/ˈɒptɪkl/",
+    "pos": "adj",
+    "meaning": "光学的；视觉的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 35,
+    "word": "acoustic",
+    "phonetic": "/əˈkuːstɪk/",
+    "pos": "adj",
+    "meaning": "声学的；听觉的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 36,
+    "word": "predater",
+    "phonetic": "/ˈpredətə(r)/",
+    "pos": "n",
+    "meaning": "（误写，应为 predator）捕食者；掠夺者",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 37,
+    "word": "alternate",
+    "phonetic": "/ɔːlˈtɜːnət/; /ˈɔːltəneɪt/",
+    "pos": "adj;v",
+    "meaning": "交替的；轮流；交替",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 38,
+    "word": "nocturnal",
+    "phonetic": "/nɒkˈtɜːnl/",
+    "pos": "adj",
+    "meaning": "夜间活动的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 39,
+    "word": "track",
+    "phonetic": "/træk/",
+    "pos": "n;v",
+    "meaning": "足迹；轨道；追踪",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 40,
+    "word": "trace",
+    "phonetic": "/treɪs/",
+    "pos": "n;v",
+    "meaning": "痕迹；追踪；追溯",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 41,
+    "word": "cave",
+    "phonetic": "/keɪv/",
+    "pos": "n",
+    "meaning": "洞穴",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 42,
+    "word": "nest",
+    "phonetic": "/nest/",
+    "pos": "n;v",
+    "meaning": "巢；筑巢",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 43,
+    "word": "victem",
+    "phonetic": "/ˈvɪktɪm/",
+    "pos": "n",
+    "meaning": "（误写，应为 victim）受害者；牺牲品",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 44,
+    "word": "pray",
+    "phonetic": "/preɪ/",
+    "pos": "v",
+    "meaning": "（疑为 prey）祈祷；猎物（prey）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 45,
+    "word": "dormant",
+    "phonetic": "/ˈdɔːmənt/",
+    "pos": "adj",
+    "meaning": "休眠的；潜伏的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 46,
+    "word": "hibernation",
+    "phonetic": "/ˌhaɪbəˈneɪʃn/",
+    "pos": "n",
+    "meaning": "冬眠",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 47,
+    "word": "keeper",
+    "phonetic": "/ˈkiːpə(r)/",
+    "pos": "n",
+    "meaning": "饲养员；保管人",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 48,
+    "word": "tame",
+    "phonetic": "/teɪm/",
+    "pos": "adj;v",
+    "meaning": "驯服的；驯化",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 49,
+    "word": "cage",
+    "phonetic": "/keɪdʒ/",
+    "pos": "n;v",
+    "meaning": "笼子；关进笼中",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 50,
+    "word": "suffer",
+    "phonetic": "/ˈsʌfə(r)/",
+    "pos": "v",
+    "meaning": "遭受；受苦",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 51,
+    "word": "undergo",
+    "phonetic": "/ˌʌndəˈɡəʊ/",
+    "pos": "v",
+    "meaning": "经历；经受",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 52,
+    "word": "captive",
+    "phonetic": "/ˈkæptɪv/",
+    "pos": "n;adj",
+    "meaning": "俘虏；被俘的；圈养的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 53,
+    "word": "vulnerable",
+    "phonetic": "/ˈvʌlnərəbl/",
+    "pos": "adj",
+    "meaning": "易受伤害的；脆弱的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 54,
+    "word": "subsistence",
+    "phonetic": "/səbˈsɪstəns/",
+    "pos": "n",
+    "meaning": "生存；生计；勉强维持生活",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 55,
+    "word": "flock",
+    "phonetic": "/flɒk/",
+    "pos": "n;v",
+    "meaning": "（鸟/羊）群；聚集",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 56,
+    "word": "pigeon",
+    "phonetic": "/ˈpɪdʒɪn/",
+    "pos": "n",
+    "meaning": "鸽子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 57,
+    "word": "beak",
+    "phonetic": "/biːk/",
+    "pos": "n",
+    "meaning": "喙；鸟嘴",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 58,
+    "word": "wing",
+    "phonetic": "/wɪŋ/",
+    "pos": "n",
+    "meaning": "翅膀；翼",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 59,
+    "word": "claw",
+    "phonetic": "/klɔː/",
+    "pos": "n;v",
+    "meaning": "爪；用爪抓",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 60,
+    "word": "paw",
+    "phonetic": "/pɔː/",
+    "pos": "n;v",
+    "meaning": "（动物）爪子；用爪子抓",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 61,
+    "word": "plume",
+    "phonetic": "/pluːm/",
+    "pos": "n",
+    "meaning": "羽毛；羽饰",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 62,
+    "word": "feather",
+    "phonetic": "/ˈfeðə(r)/",
+    "pos": "n",
+    "meaning": "羽毛",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 63,
+    "word": "fur",
+    "phonetic": "/fɜː(r)/",
+    "pos": "n",
+    "meaning": "毛皮；软毛",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 64,
+    "word": "lay",
+    "phonetic": "/leɪ/",
+    "pos": "v",
+    "meaning": "产（卵）；放置",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 65,
+    "word": "hatch",
+    "phonetic": "/hætʃ/",
+    "pos": "v;n",
+    "meaning": "孵化；舱口",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 66,
+    "word": "brood",
+    "phonetic": "/bruːd/",
+    "pos": "n;v",
+    "meaning": "一窝幼崽；孵；沉思",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 67,
+    "word": "interbreed",
+    "phonetic": "/ˌɪntəˈbriːd/",
+    "pos": "v",
+    "meaning": "杂交繁殖",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 68,
+    "word": "hybirdise",
+    "phonetic": "/ˈhaɪbrɪdaɪz/",
+    "pos": "v",
+    "meaning": "（误写，应为 hybridise）杂交",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 69,
+    "word": "swarm",
+    "phonetic": "/swɔːm/",
+    "pos": "n;v",
+    "meaning": "（昆虫）群；成群结队",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 70,
+    "word": "insect",
+    "phonetic": "/ˈɪnsekt/",
+    "pos": "n",
+    "meaning": "昆虫",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 71,
+    "word": "pest",
+    "phonetic": "/pest/",
+    "pos": "n",
+    "meaning": "害虫；讨厌的人/物",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 72,
+    "word": "worm",
+    "phonetic": "/wɜːm/",
+    "pos": "n",
+    "meaning": "蠕虫；寄生虫",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 73,
+    "word": "parasite",
+    "phonetic": "/ˈpærəsaɪt/",
+    "pos": "n",
+    "meaning": "寄生虫；寄生者",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 74,
+    "word": "sting",
+    "phonetic": "/stɪŋ/",
+    "pos": "v;n",
+    "meaning": "叮；刺；刺痛",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 75,
+    "word": "bite",
+    "phonetic": "/baɪt/",
+    "pos": "v;n",
+    "meaning": "咬；咬伤",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 76,
+    "word": "hive",
+    "phonetic": "/haɪv/",
+    "pos": "n",
+    "meaning": "蜂巢；蜂箱",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 77,
+    "word": "nest",
+    "phonetic": "/nest/",
+    "pos": "n;v",
+    "meaning": "巢；筑巢",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 78,
+    "word": "herd",
+    "phonetic": "/hɜːd/",
+    "pos": "n;v",
+    "meaning": "（牲畜）群；放牧",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 79,
+    "word": "groom",
+    "phonetic": "/ɡruːm/",
+    "pos": "v;n",
+    "meaning": "梳理毛发；马夫；新郎",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 80,
+    "word": "hay",
+    "phonetic": "/heɪ/",
+    "pos": "n",
+    "meaning": "干草",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 81,
+    "word": "devour",
+    "phonetic": "/dɪˈvaʊə(r)/",
+    "pos": "v",
+    "meaning": "吞食；狼吞虎咽",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 82,
+    "word": "briste",
+    "phonetic": "/ˈbrɪsl/",
+    "pos": "n;v",
+    "meaning": "（误写，应为 bristle）鬃毛；竖起",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 83,
+    "word": "curl",
+    "phonetic": "/kɜːl/",
+    "pos": "n;v",
+    "meaning": "卷曲；蜷缩",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 84,
+    "word": "rein",
+    "phonetic": "/reɪn/",
+    "pos": "n;v",
+    "meaning": "缰绳；控制",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 85,
+    "word": "saddle",
+    "phonetic": "/ˈsædl/",
+    "pos": "n;v",
+    "meaning": "马鞍；给……装鞍",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 86,
+    "word": "harness",
+    "phonetic": "/ˈhɑːnɪs/",
+    "pos": "n;v",
+    "meaning": "马具；利用；套上挽具",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 87,
+    "word": "excrete",
+    "phonetic": "/ɪkˈskriːt/",
+    "pos": "v",
+    "meaning": "排泄",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 88,
+    "word": "stable",
+    "phonetic": "/ˈsteɪbl/",
+    "pos": "n;adj",
+    "meaning": "马厩；稳定的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 89,
+    "word": "barn",
+    "phonetic": "/bɑːn/",
+    "pos": "n",
+    "meaning": "谷仓；牲口棚",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 90,
+    "word": "bar",
+    "phonetic": "/bɑː(r)/",
+    "pos": "n;v",
+    "meaning": "栏杆；酒吧；阻挡",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 91,
+    "word": "epidemic",
+    "phonetic": "/ˌepɪˈdemɪk/",
+    "pos": "n;adj",
+    "meaning": "流行病；流行的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 92,
+    "word": "germ",
+    "phonetic": "/dʒɜːm/",
+    "pos": "n",
+    "meaning": "病菌；微生物；萌芽",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 93,
+    "word": "bacteria",
+    "phonetic": "/bækˈtɪəriə/",
+    "pos": "n",
+    "meaning": "细菌（复数）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 94,
+    "word": "virus",
+    "phonetic": "/ˈvaɪrəs/",
+    "pos": "n",
+    "meaning": "病毒",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 95,
+    "word": "microbe",
+    "phonetic": "/ˈmaɪkrəʊb/",
+    "pos": "n",
+    "meaning": "微生物",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 96,
+    "word": "gene",
+    "phonetic": "/dʒiːn/",
+    "pos": "n",
+    "meaning": "基因",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 97,
+    "word": "protein",
+    "phonetic": "/ˈprəʊtiːn/",
+    "pos": "n",
+    "meaning": "蛋白质",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 98,
+    "word": "vitamin",
+    "phonetic": "/ˈvɪtəmɪn/",
+    "pos": "n",
+    "meaning": "维生素",
+    "note": null,
+    "status": "unknow"
+  }
+]

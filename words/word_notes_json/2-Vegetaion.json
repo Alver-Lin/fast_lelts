@@ -1,0 +1,902 @@
+[
+  {
+    "num": 1,
+    "word": "plough(plow)",
+    "phonetic": "/plaʊ/",
+    "pos": "n;v",
+    "meaning": "犁；耕地",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 2,
+    "word": "spade",
+    "phonetic": "/speɪd/",
+    "pos": "n",
+    "meaning": "铲；锹",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 3,
+    "word": "rake",
+    "phonetic": "/reɪk/",
+    "pos": "n;v",
+    "meaning": "耙子；耙；搜索",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 4,
+    "word": "arable",
+    "phonetic": "/ˈærəbl/",
+    "pos": "adj",
+    "meaning": "适于耕种的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 5,
+    "word": "soil",
+    "phonetic": "/sɔɪl/",
+    "pos": "n;v",
+    "meaning": "土壤；弄脏",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 6,
+    "word": "seed",
+    "phonetic": "/siːd/",
+    "pos": "n;v",
+    "meaning": "种子；播种",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 7,
+    "word": "reclaim",
+    "phonetic": "/rɪˈkleɪm/",
+    "pos": "v",
+    "meaning": "开垦；回收；收回",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 8,
+    "word": "cultivate",
+    "phonetic": "/ˈkʌltɪveɪt/",
+    "pos": "v",
+    "meaning": "耕作；培养；培育",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 9,
+    "word": "sow",
+    "phonetic": "/səʊ/",
+    "pos": "v",
+    "meaning": "播种；散播",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 10,
+    "word": "germinate",
+    "phonetic": "/ˈdʒɜːmɪneɪt/",
+    "pos": "v",
+    "meaning": "发芽；萌芽",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 11,
+    "word": "herb",
+    "phonetic": "/hɜːb/",
+    "pos": "n",
+    "meaning": "草本植物；香草；药草",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 12,
+    "word": "aromatic",
+    "phonetic": "/ˌærəˈmætɪk/",
+    "pos": "adj",
+    "meaning": "芳香的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 13,
+    "word": "tree",
+    "phonetic": "/triː/",
+    "pos": "n",
+    "meaning": "树",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 14,
+    "word": "branch",
+    "phonetic": "/brɑːntʃ/",
+    "pos": "n;v",
+    "meaning": "树枝；分支；分岔",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 15,
+    "word": "scent",
+    "phonetic": "/sent/",
+    "pos": "n;v",
+    "meaning": "气味；香味；嗅出",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 16,
+    "word": "blossom",
+    "phonetic": "/ˈblɒsəm/",
+    "pos": "n;v",
+    "meaning": "花朵；开花；繁荣",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 17,
+    "word": "bloom",
+    "phonetic": "/bluːm/",
+    "pos": "n;v",
+    "meaning": "花；开花；兴盛",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 18,
+    "word": "flouer",
+    "phonetic": "/ˈflaʊə(r)/",
+    "pos": "n",
+    "meaning": "（误写，应为 flower）花",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 19,
+    "word": "bud",
+    "phonetic": "/bʌd/",
+    "pos": "n;v",
+    "meaning": "芽；花蕾；发芽",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 20,
+    "word": "bee",
+    "phonetic": "/biː/",
+    "pos": "n",
+    "meaning": "蜜蜂",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 21,
+    "word": "pollen",
+    "phonetic": "/ˈpɒlən/",
+    "pos": "n",
+    "meaning": "花粉",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 22,
+    "word": "root",
+    "phonetic": "/ruːt/",
+    "pos": "n;v",
+    "meaning": "根；根源；生根",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 23,
+    "word": "absorb",
+    "phonetic": "/əbˈzɔːb/",
+    "pos": "v",
+    "meaning": "吸收；理解；吸引",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 24,
+    "word": "uptake",
+    "phonetic": "/ˈʌpteɪk/",
+    "pos": "n",
+    "meaning": "吸收；摄取",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 25,
+    "word": "nutrient",
+    "phonetic": "/ˈnjuːtriənt/",
+    "pos": "n;adj",
+    "meaning": "营养物；有营养的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 26,
+    "word": "energy",
+    "phonetic": "/ˈenədʒi/",
+    "pos": "n",
+    "meaning": "能量；精力",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 27,
+    "word": "straw",
+    "phonetic": "/strɔː/",
+    "pos": "n",
+    "meaning": "稻草；吸管",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 28,
+    "word": "hay",
+    "phonetic": "/heɪ/",
+    "pos": "n",
+    "meaning": "干草",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 29,
+    "word": "reed",
+    "phonetic": "/riːd/",
+    "pos": "n",
+    "meaning": "芦苇",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 30,
+    "word": "weed",
+    "phonetic": "/wiːd/",
+    "pos": "n;v",
+    "meaning": "杂草；除草",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 31,
+    "word": "thorn",
+    "phonetic": "/θɔːn/",
+    "pos": "n",
+    "meaning": "刺；荆棘",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 32,
+    "word": "grass",
+    "phonetic": "/ɡrɑːs/",
+    "pos": "n",
+    "meaning": "草；草地",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 33,
+    "word": "meadow",
+    "phonetic": "/ˈmedəʊ/",
+    "pos": "n",
+    "meaning": "草地；牧场",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 34,
+    "word": "law",
+    "phonetic": "/lɔː/",
+    "pos": "n",
+    "meaning": "（疑为 lawn）草坪；法律",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 35,
+    "word": "sunlight",
+    "phonetic": "/ˈsʌnlaɪt/",
+    "pos": "n",
+    "meaning": "阳光",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 36,
+    "word": "carbon dioxide",
+    "phonetic": "/ˌkɑːbən daɪˈɒksaɪd/",
+    "pos": "n",
+    "meaning": "二氧化碳",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 37,
+    "word": "oxygen",
+    "phonetic": "/ˈɒksɪdʒən/",
+    "pos": "n",
+    "meaning": "氧气",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 38,
+    "word": "circulation",
+    "phonetic": "/ˌsɜːkjəˈleɪʃn/",
+    "pos": "n",
+    "meaning": "循环；流通；发行量",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 39,
+    "word": "emission",
+    "phonetic": "/ɪˈmɪʃn/",
+    "pos": "n",
+    "meaning": "排放；散发；发射",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 40,
+    "word": "release",
+    "phonetic": "/rɪˈliːs/",
+    "pos": "v;n",
+    "meaning": "释放；发布；发行",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 41,
+    "word": "photosynthesis",
+    "phonetic": "/ˌfəʊtəʊˈsɪnθəsɪs/",
+    "pos": "n",
+    "meaning": "光合作用",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 42,
+    "word": "respire",
+    "phonetic": "/rɪˈspaɪə(r)/",
+    "pos": "v",
+    "meaning": "呼吸",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 43,
+    "word": "absorb",
+    "phonetic": "/əbˈzɔːb/",
+    "pos": "v",
+    "meaning": "吸收；理解；吸引",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 44,
+    "word": "ripen",
+    "phonetic": "/ˈraɪpən/",
+    "pos": "v",
+    "meaning": "成熟；使成熟",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 45,
+    "word": "pesticide",
+    "phonetic": "/ˈpestɪsaɪd/",
+    "pos": "n",
+    "meaning": "杀虫剂；农药",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 46,
+    "word": "bug",
+    "phonetic": "/bʌɡ/",
+    "pos": "n;v",
+    "meaning": "虫子；故障；烦扰",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 47,
+    "word": "catalyst",
+    "phonetic": "/ˈkætəlɪst/",
+    "pos": "n",
+    "meaning": "催化剂；刺激因素",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 48,
+    "word": "catelyse",
+    "phonetic": "/ˈkætəlaɪz/",
+    "pos": "v",
+    "meaning": "（误写，应为 catalyse）催化",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 49,
+    "word": "effective",
+    "phonetic": "/ɪˈfektɪv/",
+    "pos": "adj",
+    "meaning": "有效的；起作用的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 50,
+    "word": "efficient",
+    "phonetic": "/ɪˈfɪʃnt/",
+    "pos": "adj",
+    "meaning": "高效的；有能力的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 51,
+    "word": "herbicde",
+    "phonetic": "/ˈhɜːbɪsaɪd/",
+    "pos": "n",
+    "meaning": "（误写，应为 herbicide）除草剂",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 52,
+    "word": "wither",
+    "phonetic": "/ˈwɪðə(r)/",
+    "pos": "v",
+    "meaning": "枯萎；凋谢",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 53,
+    "word": "harvest",
+    "phonetic": "/ˈhɑːvɪst/",
+    "pos": "n;v",
+    "meaning": "收获；收割",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 54,
+    "word": "pick",
+    "phonetic": "/pɪk/",
+    "pos": "v;n",
+    "meaning": "采摘；挑选；镐",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 55,
+    "word": "pluck",
+    "phonetic": "/plʌk/",
+    "pos": "v;n",
+    "meaning": "采摘；拔；勇气",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 56,
+    "word": "yield",
+    "phonetic": "/jiːld/",
+    "pos": "v;n",
+    "meaning": "出产；屈服；产量",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 57,
+    "word": "mutation",
+    "phonetic": "/mjuːˈteɪʃn/",
+    "pos": "n",
+    "meaning": "突变；变异",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 58,
+    "word": "variation",
+    "phonetic": "/ˌveəriˈeɪʃn/",
+    "pos": "n",
+    "meaning": "变化；变体；变异",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 59,
+    "word": "diversity",
+    "phonetic": "/daɪˈvɜːsəti/",
+    "pos": "n",
+    "meaning": "多样性；差异",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 60,
+    "word": "productive",
+    "phonetic": "/prəˈdʌktɪv/",
+    "pos": "adj",
+    "meaning": "多产的；富有成效的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 61,
+    "word": "considerable",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "pos": "adj",
+    "meaning": "相当大的；重要的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 62,
+    "word": "evolve",
+    "phonetic": "/iˈvɒlv/",
+    "pos": "v",
+    "meaning": "进化；发展；演变",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 63,
+    "word": "massive",
+    "phonetic": "/ˈmæsɪv/",
+    "pos": "adj",
+    "meaning": "巨大的；大规模的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 64,
+    "word": "immense",
+    "phonetic": "/ɪˈmens/",
+    "pos": "adj",
+    "meaning": "巨大的；极大的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 65,
+    "word": "miximal",
+    "phonetic": "/ˈmæksɪml/",
+    "pos": "adj",
+    "meaning": "（误写，应为 maximal）最大的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 66,
+    "word": "optimal",
+    "phonetic": "/ˈɒptɪml/",
+    "pos": "adj",
+    "meaning": "最佳的；最优的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 67,
+    "word": "minimal",
+    "phonetic": "/ˈmɪnɪml/",
+    "pos": "adj",
+    "meaning": "最小的；最低限度的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 68,
+    "word": "decompose",
+    "phonetic": "/ˌdiːkəmˈpəʊz/",
+    "pos": "v",
+    "meaning": "分解；腐烂",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 69,
+    "word": "rot",
+    "phonetic": "/rɒt/",
+    "pos": "v;n",
+    "meaning": "腐烂；腐朽",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 70,
+    "word": "decay",
+    "phonetic": "/dɪˈkeɪ/",
+    "pos": "v;n",
+    "meaning": "腐烂；衰退；衰变",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 71,
+    "word": "stale",
+    "phonetic": "/steɪl/",
+    "pos": "adj",
+    "meaning": "不新鲜的；陈腐的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 72,
+    "word": "pine",
+    "phonetic": "/paɪn/",
+    "pos": "n;v",
+    "meaning": "松树；渴望；消瘦",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 73,
+    "word": "olive",
+    "phonetic": "/ˈɒlɪv/",
+    "pos": "n",
+    "meaning": "橄榄；橄榄树",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 74,
+    "word": "log",
+    "phonetic": "/lɒɡ/",
+    "pos": "n;v",
+    "meaning": "原木；日志；伐木",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 75,
+    "word": "trunk",
+    "phonetic": "/trʌŋk/",
+    "pos": "n",
+    "meaning": "树干；躯干；箱子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 76,
+    "word": "timber",
+    "phonetic": "/ˈtɪmbə(r)/",
+    "pos": "n",
+    "meaning": "木材；木料",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 77,
+    "word": "stack",
+    "phonetic": "/stæk/",
+    "pos": "n;v",
+    "meaning": "堆；叠放",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 78,
+    "word": "heap",
+    "phonetic": "/hiːp/",
+    "pos": "n;v",
+    "meaning": "堆；堆积",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 79,
+    "word": "hay",
+    "phonetic": "/heɪ/",
+    "pos": "n",
+    "meaning": "干草",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 80,
+    "word": "vine",
+    "phonetic": "/vaɪn/",
+    "pos": "n",
+    "meaning": "藤；葡萄藤",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 81,
+    "word": "straw",
+    "phonetic": "/strɔː/",
+    "pos": "n",
+    "meaning": "稻草；吸管",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 82,
+    "word": "bundle",
+    "phonetic": "/ˈbʌndl/",
+    "pos": "n;v",
+    "meaning": "捆；束；打包",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 83,
+    "word": "tulip",
+    "phonetic": "/ˈtjuːlɪp/",
+    "pos": "n",
+    "meaning": "郁金香",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 84,
+    "word": "bunch",
+    "phonetic": "/bʌntʃ/",
+    "pos": "n;v",
+    "meaning": "束；串；聚集",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 85,
+    "word": "vase",
+    "phonetic": "/vɑːz/",
+    "pos": "n",
+    "meaning": "花瓶",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 86,
+    "word": "field",
+    "phonetic": "/fiːld/",
+    "pos": "n",
+    "meaning": "田地；领域；战场",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 87,
+    "word": "domolish",
+    "phonetic": "/dɪˈmɒlɪʃ/",
+    "pos": "v",
+    "meaning": "（误写，应为 demolish）拆除；毁坏",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 88,
+    "word": "infringe",
+    "phonetic": "/ɪnˈfrɪndʒ/",
+    "pos": "v",
+    "meaning": "侵犯；违反",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 89,
+    "word": "undermine",
+    "phonetic": "/ˌʌndəˈmaɪn/",
+    "pos": "v",
+    "meaning": "削弱；暗中破坏",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 90,
+    "word": "extin",
+    "phonetic": "/ɪkˈstɪŋkt/",
+    "pos": "adj",
+    "meaning": "（疑为 extinct）灭绝的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 91,
+    "word": "counterbalance",
+    "phonetic": "/ˈkaʊntəbæləns/",
+    "pos": "n;v",
+    "meaning": "平衡力；抵消",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 92,
+    "word": "ruin",
+    "phonetic": "/ˈruːɪn/",
+    "pos": "n;v",
+    "meaning": "毁灭；废墟；毁坏",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 93,
+    "word": "perish",
+    "phonetic": "/ˈperɪʃ/",
+    "pos": "v",
+    "meaning": "死亡；毁灭；腐烂",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 94,
+    "word": "extinguish",
+    "phonetic": "/ɪkˈstɪŋɡwɪʃ/",
+    "pos": "v",
+    "meaning": "熄灭；扑灭；消灭",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 95,
+    "word": "protect",
+    "phonetic": "/prəˈtekt/",
+    "pos": "v",
+    "meaning": "保护",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 96,
+    "word": "preserve",
+    "phonetic": "/prɪˈzɜːv/",
+    "pos": "v;n",
+    "meaning": "保护；保存；保护区",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 97,
+    "word": "consenvation",
+    "phonetic": "/ˌkɒnsəˈveɪʃn/",
+    "pos": "n",
+    "meaning": "（误写，应为 conservation）保护；节约",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 98,
+    "word": "charcoal",
+    "phonetic": "/ˈtʃɑːkəʊl/",
+    "pos": "n",
+    "meaning": "木炭",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 99,
+    "word": "outcome",
+    "phonetic": "/ˈaʊtkʌm/",
+    "pos": "n",
+    "meaning": "结果；后果",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 100,
+    "word": "impact",
+    "phonetic": "/ˈɪmpækt/; /ɪmˈpækt/",
+    "pos": "n;v",
+    "meaning": "影响；冲击；撞击",
+    "note": null,
+    "status": "unknow"
+  }
+]

@@ -1,0 +1,2405 @@
+[
+  {
+    "num": 1,
+    "word": "university",
+    "phonetic": "/ˌjuːnɪˈvɜːsəti/",
+    "pos": "n",
+    "meaning": "大学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 2,
+    "word": "college",
+    "phonetic": "/ˈkɒlɪdʒ/",
+    "pos": "n",
+    "meaning": "学院；大学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 3,
+    "word": "campus",
+    "phonetic": "/ˈkæmpəs/",
+    "pos": "n",
+    "meaning": "校园",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 4,
+    "word": "orientation",
+    "phonetic": "/ˌɔːriənˈteɪʃn/",
+    "pos": "n",
+    "meaning": "迎新介绍；方向；定位",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 5,
+    "word": "roster",
+    "phonetic": "/ˈrɒstə(r)/",
+    "pos": "n",
+    "meaning": "名册；值勤表",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 6,
+    "word": "register",
+    "phonetic": "/ˈredʒɪstə(r)/",
+    "pos": "v;n",
+    "meaning": "登记；注册；名册",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 7,
+    "word": "fresher",
+    "phonetic": "/ˈfreʃə(r)/",
+    "pos": "n",
+    "meaning": "（英）大一新生",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 8,
+    "word": "fresherman",
+    "phonetic": "/ˈfreʃmən/",
+    "pos": "n",
+    "meaning": "（误写，应为 freshman）大一新生",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 9,
+    "word": "enroll",
+    "phonetic": "/ɪnˈrəʊl/",
+    "pos": "v",
+    "meaning": "注册；入学；招收",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 10,
+    "word": "matrionlation",
+    "phonetic": "/məˌtrɪkjuˈleɪʃn/",
+    "pos": "n",
+    "meaning": "（误写，应为 matriculation）入学注册",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 11,
+    "word": "sophomore",
+    "phonetic": "/ˈsɒfəmɔː(r)/",
+    "pos": "n",
+    "meaning": "大二学生",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 12,
+    "word": "junior",
+    "phonetic": "/ˈdʒuːniə(r)/",
+    "pos": "n;adj",
+    "meaning": "大三学生；初级的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 13,
+    "word": "senior",
+    "phonetic": "/ˈsiːniə(r)/",
+    "pos": "n;adj",
+    "meaning": "大四学生；高级的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 14,
+    "word": "bachelor",
+    "phonetic": "/ˈbætʃələ(r)/",
+    "pos": "n",
+    "meaning": "学士；单身汉",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 15,
+    "word": "undergraduate",
+    "phonetic": "/ˌʌndəˈɡrædʒuət/",
+    "pos": "n;adj",
+    "meaning": "本科生；本科的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 16,
+    "word": "master",
+    "phonetic": "/ˈmɑːstə(r)/",
+    "pos": "n",
+    "meaning": "硕士；主人；精通",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 17,
+    "word": "postgraduate",
+    "phonetic": "/ˌpəʊstˈɡrædʒuət/",
+    "pos": "n;adj",
+    "meaning": "研究生；研究生的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 18,
+    "word": "graduate student",
+    "phonetic": "/ˈɡrædʒuət ˈstjuːdnt/",
+    "pos": "n",
+    "meaning": "研究生",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 19,
+    "word": "docter",
+    "phonetic": "/ˈdɒktə(r)/",
+    "pos": "n",
+    "meaning": "（误写，应为 doctor）博士；医生",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 20,
+    "word": "graduation",
+    "phonetic": "/ˌɡrædʒuˈeɪʃn/",
+    "pos": "n",
+    "meaning": "毕业；毕业典礼",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 21,
+    "word": "ceremony",
+    "phonetic": "/ˈserəməni/",
+    "pos": "n",
+    "meaning": "仪式；典礼",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 22,
+    "word": "degree",
+    "phonetic": "/dɪˈɡriː/",
+    "pos": "n",
+    "meaning": "学位；程度；度数",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 23,
+    "word": "diploma",
+    "phonetic": "/dɪˈpləʊmə/",
+    "pos": "n",
+    "meaning": "文凭；毕业证书",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 24,
+    "word": "certify",
+    "phonetic": "/ˈsɜːtɪfaɪ/",
+    "pos": "v",
+    "meaning": "证明；发证书",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 25,
+    "word": "Qualify",
+    "phonetic": "/ˈkwɒlɪfaɪ/",
+    "pos": "v",
+    "meaning": "取得资格；使合格",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 26,
+    "word": "graduate",
+    "phonetic": "/ˈɡrædʒuət/; /ˈɡrædʒueɪt/",
+    "pos": "n;v",
+    "meaning": "毕业生；毕业",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 27,
+    "word": "candidate",
+    "phonetic": "/ˈkændɪdət/",
+    "pos": "n",
+    "meaning": "候选人；应试者",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 28,
+    "word": "refectory",
+    "phonetic": "/rɪˈfektəri/",
+    "pos": "n",
+    "meaning": "（学校等）食堂；餐厅",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 29,
+    "word": "dininghall",
+    "phonetic": "/ˈdaɪnɪŋ hɔːl/",
+    "pos": "n",
+    "meaning": "（应为 dining hall）食堂",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 30,
+    "word": "canteen",
+    "phonetic": "/kænˈtiːn/",
+    "pos": "n",
+    "meaning": "食堂；餐厅",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 31,
+    "word": "accommodation",
+    "phonetic": "/əˌkɒməˈdeɪʃn/",
+    "pos": "n",
+    "meaning": "住宿；住处",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 32,
+    "word": "dorm",
+    "phonetic": "/dɔːm/",
+    "pos": "n",
+    "meaning": "宿舍（dormitory 缩写）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 33,
+    "word": "laboratory",
+    "phonetic": "/ləˈbɒrətri/",
+    "pos": "n",
+    "meaning": "实验室",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 34,
+    "word": "experiment",
+    "phonetic": "/ɪkˈsperɪmənt/",
+    "pos": "n;v",
+    "meaning": "实验；做实验",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 35,
+    "word": "data",
+    "phonetic": "/ˈdeɪtə/",
+    "pos": "n",
+    "meaning": "数据；资料",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 36,
+    "word": "library",
+    "phonetic": "/ˈlaɪbrəri/",
+    "pos": "n",
+    "meaning": "图书馆",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 37,
+    "word": "literature",
+    "phonetic": "/ˈlɪtrətʃə(r)/",
+    "pos": "n",
+    "meaning": "文学；文献",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 38,
+    "word": "tale",
+    "phonetic": "/teɪl/",
+    "pos": "n",
+    "meaning": "故事；传说",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 39,
+    "word": "fiction",
+    "phonetic": "/ˈfɪkʃn/",
+    "pos": "n",
+    "meaning": "小说；虚构",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 40,
+    "word": "diary",
+    "phonetic": "/ˈdaɪəri/",
+    "pos": "n",
+    "meaning": "日记",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 41,
+    "word": "poetry",
+    "phonetic": "/ˈpəʊətri/",
+    "pos": "n",
+    "meaning": "诗歌",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 42,
+    "word": "magazine",
+    "phonetic": "/ˌmæɡəˈziːn/",
+    "pos": "n",
+    "meaning": "杂志",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 43,
+    "word": "journal",
+    "phonetic": "/ˈdʒɜːnl/",
+    "pos": "n",
+    "meaning": "期刊；日记；学报",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 44,
+    "word": "coverage",
+    "phonetic": "/ˈkʌvərɪdʒ/",
+    "pos": "n",
+    "meaning": "报道；覆盖范围",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 45,
+    "word": "encyclopedia",
+    "phonetic": "/ɪnˌsaɪkləˈpiːdiə/",
+    "pos": "n",
+    "meaning": "百科全书",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 46,
+    "word": "biography",
+    "phonetic": "/baɪˈɒɡrəfi/",
+    "pos": "n",
+    "meaning": "传记",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 47,
+    "word": "documentary",
+    "phonetic": "/ˌdɒkjuˈmentri/",
+    "pos": "n;adj",
+    "meaning": "纪录片；纪实的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 48,
+    "word": "article",
+    "phonetic": "/ˈɑːtɪkl/",
+    "pos": "n",
+    "meaning": "文章；物品；冠词",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 49,
+    "word": "catagory",
+    "phonetic": "/ˈkætəɡəri/",
+    "pos": "n",
+    "meaning": "（误写，应为 category）类别；范畴",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 50,
+    "word": "timetable",
+    "phonetic": "/ˈtaɪmteɪbl/",
+    "pos": "n",
+    "meaning": "时间表；课程表",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 51,
+    "word": "schedule",
+    "phonetic": "/ˈʃedjuːl/",
+    "pos": "n;v",
+    "meaning": "日程表；安排",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 52,
+    "word": "deadline",
+    "phonetic": "/ˈdedlaɪn/",
+    "pos": "n",
+    "meaning": "截止日期；最后期限",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 53,
+    "word": "term",
+    "phonetic": "/tɜːm/",
+    "pos": "n",
+    "meaning": "学期；术语；期限",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 54,
+    "word": "semester",
+    "phonetic": "/sɪˈmestə(r)/",
+    "pos": "n",
+    "meaning": "学期（尤指一学年两学期制）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 55,
+    "word": "course",
+    "phonetic": "/kɔːs/",
+    "pos": "n",
+    "meaning": "课程；过程；一道菜",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 56,
+    "word": "lesson",
+    "phonetic": "/ˈlesn/",
+    "pos": "n",
+    "meaning": "一节课；教训",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 57,
+    "word": "compulsory",
+    "phonetic": "/kəmˈpʌlsəri/",
+    "pos": "adj",
+    "meaning": "必修的；强制的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 58,
+    "word": "prerequisite",
+    "phonetic": "/ˌpriːˈrekwəzɪt/",
+    "pos": "n;adj",
+    "meaning": "先决条件；必备的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 59,
+    "word": "selective",
+    "phonetic": "/sɪˈlektɪv/",
+    "pos": "adj",
+    "meaning": "有选择性的；精选的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 60,
+    "word": "elective",
+    "phonetic": "/ɪˈlektɪv/",
+    "pos": "n;adj",
+    "meaning": "选修课；选修的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 61,
+    "word": "knowledge",
+    "phonetic": "/ˈnɒlɪdʒ/",
+    "pos": "n",
+    "meaning": "知识；了解",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 62,
+    "word": "superficial",
+    "phonetic": "/ˌsuːpəˈfɪʃl/",
+    "pos": "adj",
+    "meaning": "肤浅的；表面的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 63,
+    "word": "surface",
+    "phonetic": "/ˈsɜːfɪs/",
+    "pos": "n;v",
+    "meaning": "表面；浮出水面",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 64,
+    "word": "rudimentary",
+    "phonetic": "/ˌruːdɪˈmentri/",
+    "pos": "adj",
+    "meaning": "基本的；初步的；未发展的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 65,
+    "word": "basic",
+    "phonetic": "/ˈbeɪsɪk/",
+    "pos": "adj",
+    "meaning": "基本的；基础的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 66,
+    "word": "fundamental",
+    "phonetic": "/ˌfʌndəˈmentl/",
+    "pos": "adj;n",
+    "meaning": "根本的；基本原则",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 67,
+    "word": "elementary",
+    "phonetic": "/ˌelɪˈmentri/",
+    "pos": "adj",
+    "meaning": "初级的；基本的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 68,
+    "word": "preview",
+    "phonetic": "/ˈpriːvjuː/",
+    "pos": "n;v",
+    "meaning": "预习；预览；预告",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 69,
+    "word": "skim",
+    "phonetic": "/skɪm/",
+    "pos": "v",
+    "meaning": "略读；撇去",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 70,
+    "word": "scan",
+    "phonetic": "/skæn/",
+    "pos": "v;n",
+    "meaning": "扫读；扫描",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 71,
+    "word": "scrutinise",
+    "phonetic": "/ˈskruːtənaɪz/",
+    "pos": "v",
+    "meaning": "仔细检查；详审",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 72,
+    "word": "seminar",
+    "phonetic": "/ˈsemɪnɑː(r)/",
+    "pos": "n",
+    "meaning": "研讨会；研讨课",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 73,
+    "word": "forum",
+    "phonetic": "/ˈfɔːrəm/",
+    "pos": "n",
+    "meaning": "论坛；讨论会",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 74,
+    "word": "syllabus",
+    "phonetic": "/ˈsɪləbəs/",
+    "pos": "n",
+    "meaning": "教学大纲；课程提纲",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 75,
+    "word": "recite",
+    "phonetic": "/rɪˈsaɪt/",
+    "pos": "v",
+    "meaning": "背诵；朗诵",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 76,
+    "word": "dictate",
+    "phonetic": "/dɪkˈteɪt/",
+    "pos": "v",
+    "meaning": "听写；口述；命令",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 77,
+    "word": "quiz",
+    "phonetic": "/kwɪz/",
+    "pos": "n;v",
+    "meaning": "小测验；提问",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 78,
+    "word": "test",
+    "phonetic": "/test/",
+    "pos": "n;v",
+    "meaning": "测试；测验",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 79,
+    "word": "examination",
+    "phonetic": "/ɪɡˌzæmɪˈneɪʃn/",
+    "pos": "n",
+    "meaning": "考试；检查",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 80,
+    "word": "assignment",
+    "phonetic": "/əˈsaɪnmənt/",
+    "pos": "n",
+    "meaning": "作业；任务；分配",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 81,
+    "word": "copy",
+    "phonetic": "/ˈkɒpi/",
+    "pos": "n;v",
+    "meaning": "副本；抄写；复制",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 82,
+    "word": "submit",
+    "phonetic": "/səbˈmɪt/",
+    "pos": "v",
+    "meaning": "提交；服从",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 83,
+    "word": "inspect",
+    "phonetic": "/ɪnˈspekt/",
+    "pos": "v",
+    "meaning": "检查；视察",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 84,
+    "word": "review",
+    "phonetic": "/rɪˈvjuː/",
+    "pos": "v;n",
+    "meaning": "复习；回顾；评论",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 85,
+    "word": "revise",
+    "phonetic": "/rɪˈvaɪz/",
+    "pos": "v",
+    "meaning": "（英）复习；修订",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 86,
+    "word": "consult",
+    "phonetic": "/kənˈsʌlt/",
+    "pos": "v",
+    "meaning": "咨询；查阅",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 87,
+    "word": "profoun",
+    "phonetic": "/prəˈfaʊnd/",
+    "pos": "adj",
+    "meaning": "（误写，应为 profound）深刻的；深远的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 88,
+    "word": "math",
+    "phonetic": "/mæθ/",
+    "pos": "n",
+    "meaning": "数学（mathematics 缩写）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 89,
+    "word": "arithmetic",
+    "phonetic": "/əˈrɪθmətɪk/",
+    "pos": "n",
+    "meaning": "算术",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 90,
+    "word": "algebra",
+    "phonetic": "/ˈældʒɪbrə/",
+    "pos": "n",
+    "meaning": "代数",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 91,
+    "word": "plus",
+    "phonetic": "/plʌs/",
+    "pos": "prep;n",
+    "meaning": "加；加号；优点",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 92,
+    "word": "subtract",
+    "phonetic": "/səbˈtrækt/",
+    "pos": "v",
+    "meaning": "减；减去",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 93,
+    "word": "multiply",
+    "phonetic": "/ˈmʌltɪplaɪ/",
+    "pos": "v",
+    "meaning": "乘；增加",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 94,
+    "word": "divide",
+    "phonetic": "/dɪˈvaɪd/",
+    "pos": "v",
+    "meaning": "除；分开",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 95,
+    "word": "equation",
+    "phonetic": "/ɪˈkweɪʒn/",
+    "pos": "n",
+    "meaning": "方程式；等式",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 96,
+    "word": "identical",
+    "phonetic": "/aɪˈdentɪkl/",
+    "pos": "adj",
+    "meaning": "完全相同的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 97,
+    "word": "total",
+    "phonetic": "/ˈtəʊtl/",
+    "pos": "n;adj;v",
+    "meaning": "总数；总的；合计",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 98,
+    "word": "sum",
+    "phonetic": "/sʌm/",
+    "pos": "n;v",
+    "meaning": "总和；金额；概括",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 99,
+    "word": "merger",
+    "phonetic": "/ˈmɜːdʒə(r)/",
+    "pos": "n",
+    "meaning": "合并；并购",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 100,
+    "word": "remainder",
+    "phonetic": "/rɪˈmeɪndə(r)/",
+    "pos": "n",
+    "meaning": "余数；剩余部分",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 101,
+    "word": "parameter",
+    "phonetic": "/pəˈræmɪtə(r)/",
+    "pos": "n",
+    "meaning": "参数；界限",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 102,
+    "word": "veriable",
+    "phonetic": "/ˈveəriəbl/",
+    "pos": "n;adj",
+    "meaning": "（误写，应为 variable）变量；可变的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 103,
+    "word": "mean",
+    "phonetic": "/miːn/",
+    "pos": "v;n;adj",
+    "meaning": "意味着；平均数；刻薄的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 104,
+    "word": "even",
+    "phonetic": "/ˈiːvn/",
+    "pos": "adj;adv",
+    "meaning": "偶数的；甚至；平坦的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 105,
+    "word": "odd",
+    "phonetic": "/ɒd/",
+    "pos": "adj",
+    "meaning": "奇数的；奇怪的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 106,
+    "word": "double",
+    "phonetic": "/ˈdʌbl/",
+    "pos": "adj;v;n",
+    "meaning": "两倍的；使加倍；两倍",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 107,
+    "word": "triple",
+    "phonetic": "/ˈtrɪpl/",
+    "pos": "adj;v;n",
+    "meaning": "三倍的；使成三倍",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 108,
+    "word": "quadruple",
+    "phonetic": "/kwɒˈdruːpl/",
+    "pos": "adj;v",
+    "meaning": "四倍的；使成四倍",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 109,
+    "word": "multiple",
+    "phonetic": "/ˈmʌltɪpl/",
+    "pos": "adj;n",
+    "meaning": "多样的；倍数",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 110,
+    "word": "maximum",
+    "phonetic": "/ˈmæksɪməm/",
+    "pos": "n;adj",
+    "meaning": "最大值；最大的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 111,
+    "word": "minimum",
+    "phonetic": "/ˈmɪnɪməm/",
+    "pos": "n;adj",
+    "meaning": "最小值；最小的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 112,
+    "word": "approximately",
+    "phonetic": "/əˈprɒksɪmətli/",
+    "pos": "adv",
+    "meaning": "大约；近似地",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 113,
+    "word": "matrix",
+    "phonetic": "/ˈmeɪtrɪks/",
+    "pos": "n",
+    "meaning": "矩阵；母体",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 114,
+    "word": "calculus",
+    "phonetic": "/ˈkælkjələs/",
+    "pos": "n",
+    "meaning": "微积分；结石",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 115,
+    "word": "geometry",
+    "phonetic": "/dʒiˈɒmətri/",
+    "pos": "n",
+    "meaning": "几何学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 116,
+    "word": "chart",
+    "phonetic": "/tʃɑːt/",
+    "pos": "n;v",
+    "meaning": "图表；绘制图表",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 117,
+    "word": "gragh",
+    "phonetic": "/ɡrɑːf/",
+    "pos": "n",
+    "meaning": "（误写，应为 graph）图表；曲线图",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 118,
+    "word": "diagram",
+    "phonetic": "/ˈdaɪəɡræm/",
+    "pos": "n",
+    "meaning": "图表；示意图",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 119,
+    "word": "rectangle",
+    "phonetic": "/ˈrektæŋɡl/",
+    "pos": "n",
+    "meaning": "矩形；长方形",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 120,
+    "word": "cube",
+    "phonetic": "/kjuːb/",
+    "pos": "n",
+    "meaning": "立方体；立方",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 121,
+    "word": "angle",
+    "phonetic": "/ˈæŋɡl/",
+    "pos": "n",
+    "meaning": "角；角度；观点",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 122,
+    "word": "triange",
+    "phonetic": "/ˈtraɪæŋɡl/",
+    "pos": "n",
+    "meaning": "（误写，应为 triangle）三角形",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 123,
+    "word": "diagonal",
+    "phonetic": "/daɪˈæɡənl/",
+    "pos": "n;adj",
+    "meaning": "对角线；对角的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 124,
+    "word": "stragiht",
+    "phonetic": "/streɪt/",
+    "pos": "adj;adv",
+    "meaning": "（误写，应为 straight）直的；直接地",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 125,
+    "word": "circle",
+    "phonetic": "/ˈsɜːkl/",
+    "pos": "n;v",
+    "meaning": "圆；圆圈；环绕",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 126,
+    "word": "round",
+    "phonetic": "/raʊnd/",
+    "pos": "adj;adv;n",
+    "meaning": "圆形的；围绕；一轮",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 127,
+    "word": "dot",
+    "phonetic": "/dɒt/",
+    "pos": "n;v",
+    "meaning": "点；加点",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 128,
+    "word": "sphere",
+    "phonetic": "/sfɪə(r)/",
+    "pos": "n",
+    "meaning": "球体；领域",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 129,
+    "word": "cone",
+    "phonetic": "/kəʊn/",
+    "pos": "n",
+    "meaning": "圆锥体；锥形物",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 130,
+    "word": "extent",
+    "phonetic": "/ɪkˈstent/",
+    "pos": "n",
+    "meaning": "程度；范围；面积",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 131,
+    "word": "length",
+    "phonetic": "/leŋθ/",
+    "pos": "n",
+    "meaning": "长度；时长",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 132,
+    "word": "width",
+    "phonetic": "/wɪdθ/",
+    "pos": "n",
+    "meaning": "宽度",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 133,
+    "word": "Statistics",
+    "phonetic": "/stəˈtɪstɪks/",
+    "pos": "n",
+    "meaning": "统计学；统计数据",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 134,
+    "word": "probability",
+    "phonetic": "/ˌprɒbəˈbɪləti/",
+    "pos": "n",
+    "meaning": "可能性；概率",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 135,
+    "word": "decimal",
+    "phonetic": "/ˈdesɪml/",
+    "pos": "n;adj",
+    "meaning": "小数；十进位的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 136,
+    "word": "percent",
+    "phonetic": "/pəˈsent/",
+    "pos": "n",
+    "meaning": "百分之……",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 137,
+    "word": "proportion",
+    "phonetic": "/prəˈpɔːʃn/",
+    "pos": "n",
+    "meaning": "比例；部分",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 138,
+    "word": "rate",
+    "phonetic": "/reɪt/",
+    "pos": "n;v",
+    "meaning": "比率；速度；评价",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 139,
+    "word": "ratio",
+    "phonetic": "/ˈreɪʃiəʊ/",
+    "pos": "n",
+    "meaning": "比率；比例",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 140,
+    "word": "fraction",
+    "phonetic": "/ˈfrækʃn/",
+    "pos": "n",
+    "meaning": "分数；小部分",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 141,
+    "word": "chemistry",
+    "phonetic": "/ˈkemɪstri/",
+    "pos": "n",
+    "meaning": "化学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 142,
+    "word": "scale",
+    "phonetic": "/skeɪl/",
+    "pos": "n;v",
+    "meaning": "规模；刻度；秤；攀登",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 143,
+    "word": "density",
+    "phonetic": "/ˈdensəti/",
+    "pos": "n",
+    "meaning": "密度；密集",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 144,
+    "word": "mercury",
+    "phonetic": "/ˈmɜːkjəri/",
+    "pos": "n",
+    "meaning": "水银；汞；水星",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 145,
+    "word": "radiate",
+    "phonetic": "/ˈreɪdieɪt/",
+    "pos": "v",
+    "meaning": "辐射；散发；散发（热情等）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 146,
+    "word": "emit",
+    "phonetic": "/iˈmɪt/",
+    "pos": "v",
+    "meaning": "发出；排放",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 147,
+    "word": "transparent",
+    "phonetic": "/trænsˈpærənt/",
+    "pos": "adj",
+    "meaning": "透明的；显然的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 148,
+    "word": "hollow",
+    "phonetic": "/ˈhɒləʊ/",
+    "pos": "adj;n",
+    "meaning": "空心的；空洞",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 149,
+    "word": "boil",
+    "phonetic": "/bɔɪl/",
+    "pos": "v;n",
+    "meaning": "沸腾；煮沸；疖子",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 150,
+    "word": "melt",
+    "phonetic": "/melt/",
+    "pos": "v",
+    "meaning": "融化；熔化",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 151,
+    "word": "dissolve",
+    "phonetic": "/dɪˈzɒlv/",
+    "pos": "v",
+    "meaning": "溶解；解散",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 152,
+    "word": "rust",
+    "phonetic": "/rʌst/",
+    "pos": "n;v",
+    "meaning": "锈；生锈",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 153,
+    "word": "acid",
+    "phonetic": "/ˈæsɪd/",
+    "pos": "n;adj",
+    "meaning": "酸；酸性的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 154,
+    "word": "noxiou",
+    "phonetic": "/ˈnɒkʃəs/",
+    "pos": "adj",
+    "meaning": "（误写，应为 noxious）有毒的；有害的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 155,
+    "word": "formula",
+    "phonetic": "/ˈfɔːmjələ/",
+    "pos": "n",
+    "meaning": "公式；配方",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 156,
+    "word": "compose",
+    "phonetic": "/kəmˈpəʊz/",
+    "pos": "v",
+    "meaning": "组成；创作；作曲",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 157,
+    "word": "component",
+    "phonetic": "/kəmˈpəʊnənt/",
+    "pos": "n;adj",
+    "meaning": "组成部分；组成的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 158,
+    "word": "blend",
+    "phonetic": "/blend/",
+    "pos": "v;n",
+    "meaning": "混合；混合物",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 159,
+    "word": "mixture",
+    "phonetic": "/ˈmɪkstʃə(r)/",
+    "pos": "n",
+    "meaning": "混合物；混合",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 160,
+    "word": "physics",
+    "phonetic": "/ˈfɪzɪks/",
+    "pos": "n",
+    "meaning": "物理学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 161,
+    "word": "battery",
+    "phonetic": "/ˈbætri/",
+    "pos": "n",
+    "meaning": "电池；一组",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 162,
+    "word": "volt",
+    "phonetic": "/vəʊlt/",
+    "pos": "n",
+    "meaning": "伏特（电压单位）",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 163,
+    "word": "gravity",
+    "phonetic": "/ˈɡrævəti/",
+    "pos": "n",
+    "meaning": "重力；严重性",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 164,
+    "word": "friction",
+    "phonetic": "/ˈfrɪkʃn/",
+    "pos": "n",
+    "meaning": "摩擦；摩擦力；冲突",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 165,
+    "word": "sociology",
+    "phonetic": "/ˌsəʊsiˈɒlədʒi/",
+    "pos": "n",
+    "meaning": "社会学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 166,
+    "word": "politics",
+    "phonetic": "/ˈpɒlətɪks/",
+    "pos": "n",
+    "meaning": "政治；政治学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 167,
+    "word": "economics",
+    "phonetic": "/ˌiːkəˈnɒmɪks/",
+    "pos": "n",
+    "meaning": "经济学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 168,
+    "word": "marketing",
+    "phonetic": "/ˈmɑːkɪtɪŋ/",
+    "pos": "n",
+    "meaning": "市场营销",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 169,
+    "word": "accounting",
+    "phonetic": "/əˈkaʊntɪŋ/",
+    "pos": "n",
+    "meaning": "会计；会计学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 170,
+    "word": "psychology",
+    "phonetic": "/saɪˈkɒlədʒi/",
+    "pos": "n",
+    "meaning": "心理学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 171,
+    "word": "philosophy",
+    "phonetic": "/fəˈlɒsəfi/",
+    "pos": "n",
+    "meaning": "哲学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 172,
+    "word": "biology",
+    "phonetic": "/baɪˈɒlədʒi/",
+    "pos": "n",
+    "meaning": "生物学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 173,
+    "word": "agriculture",
+    "phonetic": "/ˈæɡrɪkʌltʃə(r)/",
+    "pos": "n",
+    "meaning": "农业；农学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 174,
+    "word": "geography",
+    "phonetic": "/dʒiˈɒɡrəfi/",
+    "pos": "n",
+    "meaning": "地理学；地理",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 175,
+    "word": "history",
+    "phonetic": "/ˈhɪstri/",
+    "pos": "n",
+    "meaning": "历史；历史学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 176,
+    "word": "mechanics",
+    "phonetic": "/məˈkænɪks/",
+    "pos": "n",
+    "meaning": "力学；机械学；技巧",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 177,
+    "word": "electionics",
+    "phonetic": "/ɪˌlekˈtrɒnɪks/",
+    "pos": "n",
+    "meaning": "（误写，应为 electronics）电子学",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 178,
+    "word": "information",
+    "phonetic": "/ˌɪnfəˈmeɪʃn/",
+    "pos": "n",
+    "meaning": "信息；情报",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 179,
+    "word": "paper",
+    "phonetic": "/ˈpeɪpə(r)/",
+    "pos": "n",
+    "meaning": "论文；纸；报纸",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 180,
+    "word": "thesis",
+    "phonetic": "/ˈθiːsɪs/",
+    "pos": "n",
+    "meaning": "论文；论点；学位论文",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 181,
+    "word": "essay",
+    "phonetic": "/ˈeseɪ/",
+    "pos": "n",
+    "meaning": "短文；论文；散文",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 182,
+    "word": "heading",
+    "phonetic": "/ˈhedɪŋ/",
+    "pos": "n",
+    "meaning": "标题；页眉",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 183,
+    "word": "list",
+    "phonetic": "/lɪst/",
+    "pos": "n;v",
+    "meaning": "清单；列出",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 184,
+    "word": "catalogue",
+    "phonetic": "/ˈkætəlɒɡ/",
+    "pos": "n;v",
+    "meaning": "目录；编入目录",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 185,
+    "word": "summar",
+    "phonetic": "/ˈsʌməri/",
+    "pos": "n;adj",
+    "meaning": "（误写，应为 summary）摘要；概括的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 186,
+    "word": "outline",
+    "phonetic": "/ˈaʊtlaɪn/",
+    "pos": "n;v",
+    "meaning": "大纲；概述；轮廓",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 187,
+    "word": "sketch",
+    "phonetic": "/sketʃ/",
+    "pos": "n;v",
+    "meaning": "草图；简述；素描",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 188,
+    "word": "profile",
+    "phonetic": "/ˈprəʊfaɪl/",
+    "pos": "n;v",
+    "meaning": "简介；侧面；概述",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 189,
+    "word": "introduce",
+    "phonetic": "/ˌɪntrəˈdjuːs/",
+    "pos": "v",
+    "meaning": "介绍；引入",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 190,
+    "word": "point",
+    "phonetic": "/pɔɪnt/",
+    "pos": "n;v",
+    "meaning": "要点；观点；指向",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 191,
+    "word": "gist",
+    "phonetic": "/dʒɪst/",
+    "pos": "n",
+    "meaning": "主旨；要点",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 192,
+    "word": "outset",
+    "phonetic": "/ˈaʊtset/",
+    "pos": "n",
+    "meaning": "开始；开端",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 193,
+    "word": "chapter",
+    "phonetic": "/ˈtʃæptə(r)/",
+    "pos": "n",
+    "meaning": "章节；篇章",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 194,
+    "word": "context",
+    "phonetic": "/ˈkɒntekst/",
+    "pos": "n",
+    "meaning": "上下文；语境；背景",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 195,
+    "word": "content",
+    "phonetic": "/ˈkɒntent/; /kənˈtent/",
+    "pos": "n;adj",
+    "meaning": "内容；满意的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 196,
+    "word": "perceive",
+    "phonetic": "/pəˈsiːv/",
+    "pos": "v",
+    "meaning": "察觉；感知；理解",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 197,
+    "word": "detect",
+    "phonetic": "/dɪˈtekt/",
+    "pos": "v",
+    "meaning": "察觉；探测；发现",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 198,
+    "word": "discern",
+    "phonetic": "/dɪˈsɜːn/",
+    "pos": "v",
+    "meaning": "辨别；看出",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 199,
+    "word": "conscious",
+    "phonetic": "/ˈkɒnʃəs/",
+    "pos": "adj",
+    "meaning": "有意识的；意识到的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 200,
+    "word": "thinking",
+    "phonetic": "/ˈθɪŋkɪŋ/",
+    "pos": "n;adj",
+    "meaning": "思考；思想；有思想的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 201,
+    "word": "extract",
+    "phonetic": "/ɪkˈstrækt/; /ˈekstrækt/",
+    "pos": "v;n",
+    "meaning": "提取；摘录；精粹",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 202,
+    "word": "cite",
+    "phonetic": "/saɪt/",
+    "pos": "v",
+    "meaning": "引用；引证",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 203,
+    "word": "elict",
+    "phonetic": "/ɪˈlɪsɪt/",
+    "pos": "v",
+    "meaning": "（误写，应为 elicit）引出；诱出",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 204,
+    "word": "quote",
+    "phonetic": "/kwəʊt/",
+    "pos": "v;n",
+    "meaning": "引用；报价；引文",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 205,
+    "word": "determine",
+    "phonetic": "/dɪˈtɜːmɪn/",
+    "pos": "v",
+    "meaning": "决定；确定；测定",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 206,
+    "word": "decide",
+    "phonetic": "/dɪˈsaɪd/",
+    "pos": "v",
+    "meaning": "决定；裁决",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 207,
+    "word": "resolve",
+    "phonetic": "/rɪˈzɒlv/",
+    "pos": "v;n",
+    "meaning": "解决；决心；决议",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 208,
+    "word": "survery",
+    "phonetic": "/ˈsɜːveɪ/",
+    "pos": "n;v",
+    "meaning": "（误写，应为 survey）调查；勘测",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 209,
+    "word": "research",
+    "phonetic": "/rɪˈsɜːtʃ/",
+    "pos": "n;v",
+    "meaning": "研究；调查",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 210,
+    "word": "observe",
+    "phonetic": "/əbˈzɜːv/",
+    "pos": "v",
+    "meaning": "观察；遵守；评论",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 211,
+    "word": "inquire",
+    "phonetic": "/ɪnˈkwaɪə(r)/",
+    "pos": "v",
+    "meaning": "询问；打听；调查",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 212,
+    "word": "query",
+    "phonetic": "/ˈkwɪəri/",
+    "pos": "n;v",
+    "meaning": "疑问；询问",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 213,
+    "word": "questionnaire",
+    "phonetic": "/ˌkwestʃəˈneə(r)/",
+    "pos": "n",
+    "meaning": "问卷；调查表",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 214,
+    "word": "example",
+    "phonetic": "/ɪɡˈzɑːmpl/",
+    "pos": "n",
+    "meaning": "例子；榜样",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 215,
+    "word": "instance",
+    "phonetic": "/ˈɪnstəns/",
+    "pos": "n",
+    "meaning": "例子；情况；实例",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 216,
+    "word": "assume",
+    "phonetic": "/əˈsjuːm/",
+    "pos": "v",
+    "meaning": "假定；承担；呈现",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 217,
+    "word": "presume",
+    "phonetic": "/prɪˈzjuːm/",
+    "pos": "v",
+    "meaning": "假定；推测；擅自",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 218,
+    "word": "suppose",
+    "phonetic": "/səˈpəʊz/",
+    "pos": "v",
+    "meaning": "假设；认为；猜想",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 219,
+    "word": "postulate",
+    "phonetic": "/ˈpɒstjuleɪt/",
+    "pos": "v;n",
+    "meaning": "假定；假设",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 220,
+    "word": "hypothesis",
+    "phonetic": "/haɪˈpɒθəsɪs/",
+    "pos": "n",
+    "meaning": "假说；假设",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 221,
+    "word": "speculate",
+    "phonetic": "/ˈspekjuleɪt/",
+    "pos": "v",
+    "meaning": "推测；投机",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 222,
+    "word": "predict",
+    "phonetic": "/prɪˈdɪkt/",
+    "pos": "v",
+    "meaning": "预测；预言",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 223,
+    "word": "infer",
+    "phonetic": "/ɪnˈfɜː(r)/",
+    "pos": "v",
+    "meaning": "推断；推论",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 224,
+    "word": "deduce",
+    "phonetic": "/dɪˈdjuːs/",
+    "pos": "v",
+    "meaning": "演绎；推断",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 225,
+    "word": "conclude",
+    "phonetic": "/kənˈkluːd/",
+    "pos": "v",
+    "meaning": "断定；结束；缔结",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 226,
+    "word": "insist",
+    "phonetic": "/ɪnˈsɪst/",
+    "pos": "v",
+    "meaning": "坚持；坚决要求",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 227,
+    "word": "persist",
+    "phonetic": "/pəˈsɪst/",
+    "pos": "v",
+    "meaning": "坚持；持续",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 228,
+    "word": "expirical",
+    "phonetic": "/ɪmˈpɪrɪkl/",
+    "pos": "adj",
+    "meaning": "（误写，应为 empirical）经验的；实证的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 229,
+    "word": "experiment",
+    "phonetic": "/ɪkˈsperɪmənt/",
+    "pos": "n;v",
+    "meaning": "实验；做实验",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 230,
+    "word": "analogy",
+    "phonetic": "/əˈnælədʒi/",
+    "pos": "n",
+    "meaning": "类比；相似",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 231,
+    "word": "compare",
+    "phonetic": "/kəmˈpeə(r)/",
+    "pos": "v",
+    "meaning": "比较；对比",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 232,
+    "word": "overlap",
+    "phonetic": "/ˌəʊvəˈlæp/",
+    "pos": "v;n",
+    "meaning": "重叠；部分相同",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 233,
+    "word": "contrast",
+    "phonetic": "/ˈkɒntrɑːst/; /kənˈtrɑːst/",
+    "pos": "n;v",
+    "meaning": "对比；对照；差异",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 234,
+    "word": "contradiction",
+    "phonetic": "/ˌkɒntrəˈdɪkʃn/",
+    "pos": "n",
+    "meaning": "矛盾；反驳",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 235,
+    "word": "disagree",
+    "phonetic": "/ˌdɪsəˈɡriː/",
+    "pos": "v",
+    "meaning": "不同意；不一致",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 236,
+    "word": "differ",
+    "phonetic": "/ˈdɪfə(r)/",
+    "pos": "v",
+    "meaning": "不同；有区别",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 237,
+    "word": "diverse",
+    "phonetic": "/daɪˈvɜːs/",
+    "pos": "adj",
+    "meaning": "多样的；不同的",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 238,
+    "word": "nuance",
+    "phonetic": "/ˈnjuːɑːns/",
+    "pos": "n",
+    "meaning": "细微差别",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 239,
+    "word": "confirm",
+    "phonetic": "/kənˈfɜːm/",
+    "pos": "v",
+    "meaning": "确认；证实",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 240,
+    "word": "prove",
+    "phonetic": "/pruːv/",
+    "pos": "v",
+    "meaning": "证明；证明是",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 241,
+    "word": "manifest",
+    "phonetic": "/ˈmænɪfest/",
+    "pos": "v;adj;n",
+    "meaning": "表明；明显的；舱单",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 242,
+    "word": "imply",
+    "phonetic": "/ɪmˈplaɪ/",
+    "pos": "v",
+    "meaning": "暗示；意味着",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 243,
+    "word": "conclusion",
+    "phonetic": "/kənˈkluːʒn/",
+    "pos": "n",
+    "meaning": "结论；结束",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 244,
+    "word": "illustrate",
+    "phonetic": "/ˈɪləstreɪt/",
+    "pos": "v",
+    "meaning": "说明；举例；图解",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 245,
+    "word": "theory",
+    "phonetic": "/ˈθɪəri/",
+    "pos": "n",
+    "meaning": "理论；学说",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 246,
+    "word": "doctrine",
+    "phonetic": "/ˈdɒktrɪn/",
+    "pos": "n",
+    "meaning": "学说；教义；主义",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 247,
+    "word": "principle",
+    "phonetic": "/ˈprɪnsəpl/",
+    "pos": "n",
+    "meaning": "原则；原理",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 248,
+    "word": "demonstrate",
+    "phonetic": "/ˈdemənstreɪt/",
+    "pos": "v",
+    "meaning": "证明；演示；示威",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 249,
+    "word": "dissertation",
+    "phonetic": "/ˌdɪsəˈteɪʃn/",
+    "pos": "n",
+    "meaning": "学位论文；专题论文",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 250,
+    "word": "achieve",
+    "phonetic": "/əˈtʃiːv/",
+    "pos": "v",
+    "meaning": "达到；完成；取得",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 251,
+    "word": "accomplish",
+    "phonetic": "/əˈkʌmplɪʃ/",
+    "pos": "v",
+    "meaning": "完成；实现",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 252,
+    "word": "attain",
+    "phonetic": "/əˈteɪn/",
+    "pos": "v",
+    "meaning": "达到；获得",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 253,
+    "word": "high",
+    "phonetic": "/haɪ/",
+    "pos": "adj;adv",
+    "meaning": "高的；高度地",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 254,
+    "word": "score",
+    "phonetic": "/skɔː(r)/",
+    "pos": "n;v",
+    "meaning": "分数；得分",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 255,
+    "word": "mark",
+    "phonetic": "/mɑːk/",
+    "pos": "n;v",
+    "meaning": "分数；标记；批改",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 256,
+    "word": "ran",
+    "phonetic": "/ræŋk/",
+    "pos": "n;v",
+    "meaning": "（疑为 rank）等级；排名",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 257,
+    "word": "grade",
+    "phonetic": "/ɡreɪd/",
+    "pos": "n;v",
+    "meaning": "成绩；等级；评分",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 258,
+    "word": "feedback",
+    "phonetic": "/ˈfiːdbæk/",
+    "pos": "n",
+    "meaning": "反馈；意见反馈",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 259,
+    "word": "prasise",
+    "phonetic": "/preɪz/",
+    "pos": "n;v",
+    "meaning": "（误写，应为 praise）表扬；赞扬",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 260,
+    "word": "appreciate",
+    "phonetic": "/əˈpriːʃieɪt/",
+    "pos": "v",
+    "meaning": "欣赏；感激；理解",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 261,
+    "word": "apply",
+    "phonetic": "/əˈplaɪ/",
+    "pos": "v",
+    "meaning": "申请；应用；适用",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 262,
+    "word": "scholarship",
+    "phonetic": "/ˈskɒləʃɪp/",
+    "pos": "n",
+    "meaning": "奖学金；学问",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 263,
+    "word": "fellowship",
+    "phonetic": "/ˈfeləʊʃɪp/",
+    "pos": "n",
+    "meaning": "研究员职位；奖学金；友谊",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 264,
+    "word": "reward",
+    "phonetic": "/rɪˈwɔːd/",
+    "pos": "n;v",
+    "meaning": "报酬；奖励；奖赏",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 265,
+    "word": "award",
+    "phonetic": "/əˈwɔːd/",
+    "pos": "n;v",
+    "meaning": "奖；授予",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 266,
+    "word": "prize",
+    "phonetic": "/praɪz/",
+    "pos": "n;v",
+    "meaning": "奖品；珍视",
+    "note": null,
+    "status": "unknow"
+  },
+  {
+    "num": 267,
+    "word": "Fee",
+    "phonetic": "/fiː/",
+    "pos": "n",
+    "meaning": "费用；学费；酬金",
+    "note": null,
+    "status": "unknow"
+  }
+]

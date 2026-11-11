@@ -1,0 +1,20 @@
+[
+  {
+    "num": 1,
+    "word": "apple",
+    "phonetic": "",
+    "pos": "n.",
+    "meaning": "苹果",
+    "note": "这个苹果",
+    "status": "unknow"
+  },
+  {
+    "num": 2,
+    "word": "test",
+    "phonetic": "",
+    "pos": "n.",
+    "meaning": "测试",
+    "note": null,
+    "status": "unknow"
+  }
+]
